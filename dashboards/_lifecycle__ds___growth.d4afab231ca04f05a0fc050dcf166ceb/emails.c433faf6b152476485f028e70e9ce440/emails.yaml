@@ -1,0 +1,19 @@
+advanced:
+  description: |-
+    DIR = Direct Conversion
+    INDIR = Indirect Conversion
+
+    CardActivation = DebitCard Activation Result (Success)
+
+    DIR_RATE = div. by Clicked
+    INDIR_RATE = div. by Opened
+chart_type: Table
+database_name: main
+display_name: Emails
+encrypted_definition: p/XBTsbdti3wtXNnoWdRrtYAcOp+iQChWPY/bBEigkDjfcaG19zs71pQpUIt8oB5XqNdRngKc5e2lrCU6NJjHfpai2meEa5GgGoJoMnqqeHM1QEeG7Kh3oHCgVME7Nl/He3LnkvIFD0JzxnGYu1w0x7sbE1SBX+Mv4Uw7umyXaUVA2awLzvlyjXvtDCXGqIe4jU6D2hUlVZrkjQ1iVepgZ3MW07QhSwiwJCvW/+Id0ovaN3h8EDoq4NBnUcZsCyZbw0lTLX0MIwriiVWb1VORh8iQbBgulHEtyngNseh1C/cauKPnLNhvq268Ov++Ktz915YQSvi21nS+Rkdi8+5DY1BCObzC9qX7KLWONe0HmFFwiwR3gRLXhrvp4HjKfGdjwPrxVE0hfx5pU71ltz+XQ==
+position:
+  left: 0
+  top: 77
+size:
+  height: 9
+  width: 58

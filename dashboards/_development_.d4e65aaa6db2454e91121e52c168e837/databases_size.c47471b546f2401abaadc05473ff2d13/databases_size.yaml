@@ -1,0 +1,10 @@
+chart_type: Pie
+database_name: monitoring_main
+display_name: Databases Size
+encrypted_definition: l7QlLqHCM3cmwvlECXJkaniHQWCTA9C9O+U6oGrj4A/dMPGHAKehQCYpYQLipjxSCJEfuo/61k6n9wV26+LotFDAZNi0cx+ZFLQJZ8Qyqjypa1O3DBu3sQusSJOEME4qUkEFmfSPKcgRRK4JKSl/1u+D7att2ARM9R8baxmd3HjNxd6LqTsLEsVfzHcCXMU68qJUlSeuU1r2hN83RI/nySntNlKBHIGIDPgbD0EvHK2C/i6+FNCWIT4apOasJYLiqwAY6O0RUp6JdUwcwWckNL4swWN7IpE34juSx9ZJXck4k7C7QZaEI6JdgFKgy0cxG1PMJBlykV6CHphqmJ+4cV11R0qOgACefgSfnRkAAxOmRLPzkrgqQkUQFzfMYJ3E0v5O15nt4GPUidcfD44MRAHEo3SteqHUKeHj9KL49fYo5VULj6FYtL8ZffqOuYCrY8cC45y4SjRMPct2jjizrC+mEvCm2Q7ifMgWiDbjSLDIX/JHrERSQVK/zCp9gnOk
+position:
+  left: 22
+  top: 44
+size:
+  height: 12
+  width: 17

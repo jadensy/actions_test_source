@@ -1,0 +1,11 @@
+chart_type: Line
+database_name: main
+display_name: Monetizable Customer - [x Pre-signup, x Install campaign] Appsflyer
+  Install - FFA ([aggregation], [daterange], [marketing_bucket])
+encrypted_definition: PfXaNkQvZYJOK2yKSqWpk+iTV3FQGjmJGfFLnFeDG7PKllo+qKxWYWDpBu6TQbxd1AThu5P836SlY8zjDnClzG/XubvKPHKTu3fO7B8f09MpJWMZmOie7ZutgSt+4uoqNtqk5vrQzk+bHM4KjpZzqk4CjAlFI86w+hYLOp1h92+jZ2T5XLWvhijOmrwcl5URbLWfmyhErc594OphRpjZAEAr89FViw8c3dObAx8OBsfq/q8d5ZPDCFsph/51U7XaGeZU8NeUM7HMfkIWHRrJCschRs8RtKESv+1CJruSXzLRVRuoKRtIco/WgTgdqhYnIjpeBCIRYKBSrMlYObkjVy4mqzVbuHxn51GaN2go2gTAPeQ9EmPpRdlUHRQbe9cdr7qDRpozRhJIw4A0zZU5LBkTFJmQEwKYNy0o8+rlfVAFJzQ+DGhszod+cl2hNpJR8+0IyN3vAQp41PWDuKYm1unQubo0haf6YF2P+cCG83I6DRtwa8ZL6RZppBWeCNQwzsuoIZyANGDH/pGV97AKNGWw1mjCm7vlZeQkh7m89O4wydRqqQAvQiPkIh67x2efQpzT4+VGcMLcXXWUaC5eGlWINz9TayMhUlRtF54+2qSkeaj3+kJnzwt0FjztkH9xFZtvaqWftm38NLVxBx+ITIyor1HMjCZKvdYkcTniJRTLnkdidrcDEaMqLwtnmy6GKIyOy3lBbBX2rk1uE+vX8hTp/jaM8jszVR+kXrwX5gk=
+position:
+  left: 0
+  top: 591
+size:
+  height: 21
+  width: 45

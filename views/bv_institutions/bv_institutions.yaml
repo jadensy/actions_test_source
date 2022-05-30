@@ -1,0 +1,9 @@
+Database Name: main
+Settings:
+  Materialize View: false
+  Metadata:
+    Description: All internal bv institutions mappings.
+    Owner: kong@moneylion.com
+    Tags:
+    - '#BV'
+  Publish as Dataset: true

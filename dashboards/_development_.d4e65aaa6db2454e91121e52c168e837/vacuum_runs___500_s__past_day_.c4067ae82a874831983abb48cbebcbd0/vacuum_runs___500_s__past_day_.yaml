@@ -1,0 +1,10 @@
+chart_type: Table
+database_name: main
+display_name: Vacuum Runs > 500 s (past day)
+encrypted_definition: 5ksnPvX+tfN+g50jYQfEfYC5kRrCjCtcJpK1dLEs820awm2P0RRaqaY5yr2GeIrVtFBf/pxt+lbB/B2Y+DoO6dwGMU2s79pMPcLmF4ZgiSurwHHrNkTI9v83clUVwjwc5A/w0S1X+N16NuX6S8mkUbvtI52g2uH32UcYXD9rcX95aF0dcKdc1FxmNNjrQAL6jqXwVZ8WlnqyIOChKWlzeFF4LDvWK1Zn0KSaqzddHoCci3pTkXoLQIPO56ZgRrVhts9/XNYdzS8MqIaM+W97NgXm43TD5nmFgYmPJQj/UVTFhoeeI5s54hJMAidbBtCStXNyCUW/Qkm/zs+BO18O5de6GSycVBTypZFo7MmWdlDVu8NziQxStmJeyNM8YUICQDJgvH17C9nZixA9HcD9e0YlkYuLhRjRdlnRJFXAge0hVBAvfX8nxFBHytf4HFiL
+position:
+  left: 56
+  top: 109
+size:
+  height: 10
+  width: 49

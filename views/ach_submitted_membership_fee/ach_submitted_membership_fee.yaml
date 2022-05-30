@@ -1,0 +1,7 @@
+Database Name: main
+Settings:
+  Exclude from Auto-Archive: true
+  Materialize View: false
+  Metadata:
+    Owner: cng@moneylion.com
+  Publish as Dataset: true

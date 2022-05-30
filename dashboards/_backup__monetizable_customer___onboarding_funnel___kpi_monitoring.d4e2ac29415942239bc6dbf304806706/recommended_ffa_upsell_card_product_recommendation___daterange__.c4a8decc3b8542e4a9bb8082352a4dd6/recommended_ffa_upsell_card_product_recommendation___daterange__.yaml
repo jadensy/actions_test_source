@@ -1,0 +1,12 @@
+chart_type: Table
+database_name: main
+display_name: Recommended FFA upsell card product recommendation ([daterange])
+encrypted_definition: C+/rOKTzV1JzRUbkyqOpq4NR6hJBHRU58e1eql4DIxN4AAfhVORaKfjeIlkpzjStkF27HDaIyAWDLhrmdmNSgiuC9VknQJrq+FfTJ2+k4p6nLXdw/wim5YeCcVIkFMJCcjCinPlxDoKRE+zVDSs+aH/C1+iXGXBlmSB1ih5s+BtkU4c0Gfix8ptSGOPyplKBn2YcgByGLJmJGl79lM6F2pzvHphCWRZCOAzONwK0uOOBGgs2dbJL+Z0yiw9upKDi
+limit_preview:
+  rows: null
+position:
+  left: 57
+  top: 270
+size:
+  height: 20
+  width: 31

@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: monitoring_main
+display_name: Hourly Median Read MB per Queue (exclude long_queries)
+encrypted_definition: RfrRATdMKV5rUDGl0UE6Lp6aWllYBkMmENomtvrTzykFr7GXLOD/KaYHheG0xf7a7p5OEw03NuhwxhhAFyoxJd8779pLUscd82Zcf9DrhbXFh1QOpPjVoljKwu/3wwtXTYKggLq/5iKutfJ3QntTHOJEqxdUeSvdacH8/1i09eMg+0uSqr5DgLHnHliMsGKh31aMvhKa4vG+Skfyr74EJpMs2w4sebYL+YMhdNrA+HKyRd6rivgXK89dns5tGGRJAdDcx5uMGqloh03e+m6BNs1mD0gW+lg/1gnZUmDL5sZY1i3saTctvObacrInhIOhWsCN9ZB/XdFIp/5pbzD7eq62IyMxAkgvH923i9PsxHAVHjJmyvOuHRRuCVfIRdPKEwWnBPNrxt4BRmSx4hKmVesstMKQoqpJf/c0OI+lbEUznODt00XGznqVhWmtQltczKlBCJxeayPvoFFQZkPdGlRoxPHqzEx3anO4vKzil5/MOGvR56W0sFXKDFE7P4eRFhyKx1IQM3WXd9OW7QhWUg==
+position:
+  left: 112
+  top: 91
+size:
+  height: 10
+  width: 56

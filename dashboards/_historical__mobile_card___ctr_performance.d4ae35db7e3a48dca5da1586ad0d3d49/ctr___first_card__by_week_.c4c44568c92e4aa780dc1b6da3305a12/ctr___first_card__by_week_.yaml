@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Table
+database_name: main
+display_name: CTR - First Card (By Week)
+encrypted_definition: dMrgjoDYPb1U8unPh+X+tJlkbYjgYf9tecajZ3ZfW52g1n3Mg3IME8/TIHz7fKXsbjc6Qt80QIZhr2V0kwen27mFyScLFddET3lyHJmnegcCS63+qIVTI4hn9jABC+b+kwRW9se4ubI6c+ut0DnGo7XCRd8dTTryHYB7nB6NifvrjX7n4n+BzOfs6E0OfiVAOpLVl5xHnmr2JbesQFzXAIU/7BvOltynImFwcAb3sSRqV6wnxtgf5pyIFojyv4PX6AjDOZxILHgBxdO7I8XMZZ0imatACaVFed/Gr7pX0Qw=
+position:
+  left: 0
+  top: 108
+size:
+  height: 19
+  width: 27

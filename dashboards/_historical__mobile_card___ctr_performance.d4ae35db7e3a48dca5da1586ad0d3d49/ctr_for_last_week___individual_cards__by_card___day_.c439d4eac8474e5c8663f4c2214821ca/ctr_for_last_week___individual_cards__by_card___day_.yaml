@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Cohort Grid
+database_name: main
+display_name: CTR For last Week - Individual Cards (By Card & Day)
+encrypted_definition: fb7QF29XjH7HSQw6myvGo8Yr9VVMyzzbNZr/xlnPPIbhLAmqLP32kb9+oaun0Q4/FQRiHdkMQTcFUGB53WI1c2hFbNGvOVDISwt4F6z2CrGFOLqJ4iVAGFRxUN5irRj57iJGFPpOoOIJGUmOJa8G5hTvfAqp8G43hqplxq8ynkwRUBnYmx2nyPrpuDaV5wIFrZniJeMISKn8KLFPvFO6i5y8wD/p7tdfHUrtvHvoYKoUdJN9mSChZU/UxN2POUGqnucL00gtl8KgPcfnFaepcSuAOeixdngLC9WhTkgcOQ9qYzkcbeMwu9DVB+ItNOKspWWcs13Vft6Kx3ruhPdTMGY1LufuNaYbLZNI4HYWVqELvHwp7XFCiKukIpQNfUvBZc3SVw/SVKf9nVWA+UqPXZVjgz64MgszIgImqhAzCs1fxEi22RDKJYC7tClOGVI9Lp4t0ctSITo9Xkazq4sZ2snSyd6l7eCUrWHmOaNI1a9BhLATFx3sNIrik96VeBEU
+position:
+  left: 0
+  top: 289
+size:
+  height: 24
+  width: 101

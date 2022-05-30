@@ -1,0 +1,10 @@
+chart_type: Table
+database_name: monitoring_main
+display_name: Table Disk Usage (Non ml_%)
+encrypted_definition: TVlvHnDW4ua8QXBUH+BQ94BHvjbrb6MCqN1WaknSKUOnM26kIo9U1CJBMHVYWLDqIIZE9q/r/zNSuvF545svt5+S+0PANp2Iplv2XfKop2boapYSnwys5LHuM4KQrgTOkzTS2EYkZoeNS7i4fkBfHN/mZgkfKS1NFncO+Q26vh0=
+position:
+  left: 26
+  top: 67
+size:
+  height: 12
+  width: 36

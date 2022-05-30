@@ -1,0 +1,12 @@
+chart_type: Table
+database_name: main
+display_name: Copy of Break Down by Experiment Group
+encrypted_definition: W0O87TbXgufAM9SJAKEAFLNYj1Sk6D5WmETuf+sOyI5TRK85KfEKfZe/l4DN+sCy+zWAV1SrrhxclzCJ8JmY683EmCPxDci8B08QljNjDR8cRBObGQnRbICB0QBPtocwVb/xnY95ofNR3gr0a7YVytm3hp31Eff3BIW2ORY9uCAuv0DF1LN8Qx/6Cz1Q0OmeWok6AdP3C8JXe8jlLMi4K8LKiVMrPEWPdeugAzOlQPRX/a4gzqTwd54b+m88RR8G4SaFVN7ryaTK9Utz3+IVdzu2vwRm2cnu7hFTK4DO/MSWbkAvu8AdhcFvNPUPUbBdDgxffy/vJp/ZuXY6NWvLOfH2IIKnloOKmIiq4k9h3QUM+tyQEoVzq92qKIEII7odiKGPcV1xH+0jvJaxOKCCpA==
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 311
+size:
+  height: 6
+  width: 40

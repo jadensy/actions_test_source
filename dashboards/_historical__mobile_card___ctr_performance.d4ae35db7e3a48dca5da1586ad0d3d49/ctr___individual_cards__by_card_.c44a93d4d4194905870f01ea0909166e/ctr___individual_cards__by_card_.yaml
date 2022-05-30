@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Cohort Grid
+database_name: main
+display_name: CTR - Individual Cards (By Card)
+encrypted_definition: 6PD0PSkuGAxUHGtgNQXl5cLZBPA4B51j2eR7cL3/zgNrqWqAbNLuCdOQMSff3eCtS1XQ4m7QIkXRXWDwJAsyMA1NkMrsNiawWIEI+QdLr95t88/CIzbnlzOMwmIl2skdpOpFz8sVZsPYNXftFX2bcKsRmhxRW/f57jpO7TkqmzrELzcGzgG0DbaaWvhpMG8Z2gspLNY+D8NK+oDUyiPA8GrXqKahfl5b86Ohe+n7taP9szRqtA+sXaxxdUtLEv9pZ6+v5M4R9prdOeu81WuBSjyTTOf0taIB8AfDyk6Uru9NNmdSajkV0BBgIPU5avLe04F+qN5L8BpeEIkbkMZsO0EYDx/cFUnTAW37he8qJ64auatTI+2roNWAPc4x4D/sl1ES1uhJBhFqsgtCnAtY+ANNBoGaJMaE3QwRfBxf648u0kQJEuJGC5xx6qCxh0zeaLb5KlAYDG8+8SoCFrHMppVTLSHLZVyievAryIt97LY=
+position:
+  left: 0
+  top: 190
+size:
+  height: 28
+  width: 54

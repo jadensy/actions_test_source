@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: monitoring_main
+display_name: Past All Query Max Duration History Unique
+encrypted_definition: lPZxaTlr6zmSShHmxB05z349qW7jinxIG/zl32vp75ahLEuHxEy66khdAlWDun3VgZieOmQBI4m19r3ZuEqB3PGh30i6d10c9CtzIP+Qpf21/Pzj9NqbaZnLUg3bRT9lNs4lm7MWA6l22kX0+MTJSuU5TdjsGwCh8ekqUxK5qNuiVgxDAWnvVw4pyJgORs8+C3bV5NHYAULBAfEXp0t2uSY1/6SUXqUMR5hXQGMqwG8=
+position:
+  left: 90
+  top: 174
+size:
+  height: 10
+  width: 30

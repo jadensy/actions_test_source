@@ -1,0 +1,11 @@
+chart_type: Table
+database_name: main
+display_name: Card Viewership Depth - Shows on average how many cards users swipe
+  through (with Trivia)
+encrypted_definition: eoLqWvi5nHCGz0REKNBX+jtk+AF6SjCe3G/3CCKQJ+KJpk3FZFt2pM5wyFMe330/cNpESRnbv1GMB6Q8EcelcFHaW9Qx+jCNq3BR6R2l7T7ZN0gLka5Tund7uMoW5bZWpze1UlCyyjnax+0/tbcoijstBrA/qsmmGTPYMksq3kRLkLROBJxBH4xUFXt6t8y3E+XTtiWH7s7yeZ1YMHf8RoN9A4Fdr61iK7DR3g9fNELcl/b6/bImIPHHcY0Rcd5UU6KI/K0vwJ4RSxSuHCU6Nlv8ep0TJc0DIXx103XZQYZLe4TcOIVQr1OKYHVLqCJZ/nEehA/iuHl2hFCWEBbNWKvvqGgyDa7MzmzgvwSGVh0=
+position:
+  left: 0
+  top: 142
+size:
+  height: 16
+  width: 58

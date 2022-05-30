@@ -1,0 +1,12 @@
+chart_type: Text Box
+database_name: main
+display_name: text
+encrypted_definition: 3iyju1LyxGnznv2M7r7ZKKz3MRPNJX5HpsLJ+RVl1QBRH7fSJwZgY9v3odXqm7RgIG1880AlDrrpJ53x3dXwULFfkC9qaBNs0wLRdGzHue9v5NOl4YmCmG/plM65Zu5u/5fp0J4j7sFmJGXtHA9Cgz+xUjVeJYw925x9Zn1nGbt6HahzNT5jowp5137f953ZVpMFHHVnddn2/Wk+zdPLhGNyOHj82s+h8V5ajWj6y3Uvmy3PBlplcKvX2r0uiz4oHtcaRBowo9kG0OVuHKElDA==
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 507
+size:
+  height: 4
+  width: 90

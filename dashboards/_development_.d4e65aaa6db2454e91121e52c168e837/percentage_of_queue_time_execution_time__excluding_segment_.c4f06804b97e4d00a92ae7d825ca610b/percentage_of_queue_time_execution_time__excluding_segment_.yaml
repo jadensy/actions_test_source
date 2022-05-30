@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: monitoring_main
+display_name: Percentage of Queue Time/Execution Time (excluding segment)
+encrypted_definition: ryucOcgRAvDc+krpHpG760hA9xO+oGQmVhVgEEx87QKNa8M+W8vdaUfzxYwSNI3km5ZW4sYq8Q9E1WhhtP1sseDOrIXKCaKPZlq5kj3Lz0waNx+rJ/lDp5SWTe70+YlsZAtnM6o9OsOgOAhvSsp1vy88o/SRo2W7LrpZTgOQ+hwiGfFHJdb75lBFP7cpy8UX7oPw6mKIAZzbTm0wXEc4ytrZUU6ouES9TlzTk0VFkTx/i0knlbmXG03Iy0NRUGHlV5PfFECwRqiqk2fpldMF4DTO08iiSWs6YB8OrSXKA2apu+6boNuFzUiU4o3xlXLMkEcuiTXzjSJfNKiaBALMM7g+XimHOG6hJTEA2ipt0I3G7KwR2M09CVdgw+9OuI2R1Q0HvybnRwm4BugKDwrM2n0JFcM/6xepiYqpXPw9ceE=
+position:
+  left: 0
+  top: 82
+size:
+  height: 9
+  width: 36

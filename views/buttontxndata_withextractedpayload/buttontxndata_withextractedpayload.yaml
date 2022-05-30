@@ -1,0 +1,6 @@
+Database Name: main
+Settings:
+  Materialize View: false
+  Metadata:
+    Owner: wloh@moneylion.com
+  Publish as Dataset: true

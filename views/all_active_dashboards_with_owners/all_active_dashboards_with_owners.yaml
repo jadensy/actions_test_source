@@ -1,0 +1,6 @@
+Database Name: Cache
+Settings:
+  Exclude from Auto-Archive: true
+  Materialize View: true
+  Metadata:
+    Owner: blee@moneylion.com

@@ -1,0 +1,7 @@
+dashboard_preferences:
+  settings:
+    owner: jliu@moneylion.com
+    tags:
+    - Archived
+disable_filters: true
+display_name: '[HISTORICAL] Mobile Card | CTR Performance'

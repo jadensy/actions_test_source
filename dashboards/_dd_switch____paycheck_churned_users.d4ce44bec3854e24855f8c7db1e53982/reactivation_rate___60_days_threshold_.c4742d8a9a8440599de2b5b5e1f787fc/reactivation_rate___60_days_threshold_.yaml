@@ -1,0 +1,10 @@
+chart_type: Number Overlay
+database_name: main
+display_name: Reactivation Rate (>60 days threshold)
+encrypted_definition: rs64r9vVJMIdrM5esEqBPy2qQyTTE12Zla/QWO4q4spXmy/jhJgPBMkgMoR0I1R+T00I1ZEZtkZ0SS+RtDaylrQ0tx0lDD4Dp6QlMc66DcoEUFzyro9hn45VpFzwTMzz2m2Tx5m9Z/a10lFsxIx3WWnVLlvSsZs03Crl9F+WcVWN+hus5lbCtkR5Uz5N8FPmQfxW0KLAxo1JsHz/FO0RY5CU7Bygyi/ynl8mRI2YOVY4f0MYYtGCrw88L82LEkKaepqkfqtTOBL8qNS7Qea+1QXpEV6dIMjKGglYMbVnFKUYNa1CxynTohS5XTXx5HoIf0ojDAdzl8JWb8k4abjg6tslLayFHiYuDEVjWFxEZiI1KDzWKm96xv/IrBLF+uYk3MusYdakL3fGqLUX+KDoBzd9YuURdVq8+pMz50d7cSo=
+position:
+  left: 56
+  top: 30
+size:
+  height: 10
+  width: 14

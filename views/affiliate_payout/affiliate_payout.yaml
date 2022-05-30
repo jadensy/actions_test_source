@@ -1,0 +1,5 @@
+Database Name: main
+Settings:
+  Materialize View: true
+  Metadata:
+    Owner: hkong@moneylion.com

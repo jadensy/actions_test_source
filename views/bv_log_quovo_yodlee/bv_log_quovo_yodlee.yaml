@@ -1,0 +1,9 @@
+Database Name: main
+Settings:
+  Materialize View: false
+  Metadata:
+    Description: bv_log for bv new linking with json extracted path from response
+    Owner: kong@moneylion.com
+    Tags:
+    - BV
+  Publish as Dataset: true

@@ -1,0 +1,11 @@
+chart_type: Bar
+database_name: main
+display_name: Monetizable Customer - [iOS, x install campaign] Backend Membership
+  - Lite to FFA ([aggregation], [daterange])
+encrypted_definition: tCRXVQgrMXNX1kToR5sAp8C79FxmVKnsGmnNTPuyAlqaSJGrvfIVupfcJbukEDPYe5jIFOegxm8ho2oZ+c0N79HbUSvOZe7y1fQ6T0O2acL4DkdERW0AC/XLsPrhvl5ya6D7Z9NSc7I/745E52n7OeEvP5yPtxG4uphRvKOgOzHw78nX7K92ZUUI1i6vgRCUctzsLrdDJoNYqQfz5mi/lj7KHRnVmhjkswuHvIaKxQPCbqvII7f2GUmu7YEcnVs65GLRoEIVtvXhz18pSfUAFICVqzfAc/zuqT45smYd+ZJsIOjM+cgxtjHWynTCy0B8Rwcb7mwtsMPnF7SxvZNGlMKSyY+zyt5YQB2RY6joEYh8g7GzviXmLTs+onNBYbBz4+0UdzGQIFHeL9aa8zktcplmw+5QwCQV57/UgiqmQ6RTWOyOuGdQ5G748Wj2hpwm+KYXRjHagLflylCzbQvNXpnitQLiZxaoTRWKuCA2MIXoJ9PpVADSxWQvu32rdTJJ27uhVx+6C6Id331hcA8m2JOC7oIQuqE2tNhunhQK5DbW9Qsj7/k/tklmGn22gpjs2ih8OYKlNWtms6rOuomdKfYAvoCx2vplRYrUdiGaHfMK8q4aUH7Dw4OW7yS0ixie4UusKXE0JBGSfXRwOiBJpguZrKkJ5nD6RvggUFq2kZUwJYa36yAnFoGHKc40PwXyXCmALm8SXh6HhusdrSbGGYGG7H/JLNedMoM24i9Br+ruhUUpz7BXWaFPb509cAOJ6mxtTK58Jdzh3IS/z9gPJQ==
+position:
+  left: 0
+  top: 186
+size:
+  height: 20
+  width: 45

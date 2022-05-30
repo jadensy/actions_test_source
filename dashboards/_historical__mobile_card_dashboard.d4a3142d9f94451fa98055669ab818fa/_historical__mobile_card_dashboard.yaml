@@ -1,0 +1,7 @@
+dashboard_preferences:
+  settings:
+    owner: jliu@moneylion.com
+    tags:
+    - MobileCard
+disable_filters: false
+display_name: '[HISTORICAL] Mobile Card Dashboard'

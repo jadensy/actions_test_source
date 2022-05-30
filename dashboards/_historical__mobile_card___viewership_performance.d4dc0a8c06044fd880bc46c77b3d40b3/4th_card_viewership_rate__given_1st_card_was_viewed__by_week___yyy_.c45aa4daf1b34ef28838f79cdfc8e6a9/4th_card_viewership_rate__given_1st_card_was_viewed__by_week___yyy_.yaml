@@ -1,0 +1,12 @@
+advanced:
+  description: Y|Y|Y = Applied 4 Loan | Enrolled in CM | Bank Verified
+chart_type: Cohort Grid
+database_name: main
+display_name: 4th Card Viewership Rate, given 1st Card was viewed (By Week & YYY)
+encrypted_definition: JvmO+Mf8VSXyXwGAKKZJls/gL22q72YWPxLZNMGyM1N8tShBWqRUwhvJU/Bb03Y8ssQCRP81wlBoR9uXXydHX3jx07xWq2aoDgbBz5yaEkFY8SDDpUyHqHdHWNDNia50uhJ7gOxPf0u+5F7CnOO+/dcAR8s9siN3cZZyLakTlwVxrsIQ6QschwS7yUT/o9BVnHjgVQGF30+hxs6cM7XgxN06XqgyOC6Jjd+bGUctA+JGS/FFLCwNeYjBwji92c1mlT/q/F5Ql5IK7o5TOEtdABqMsUBD4VUu+5Yik2gbOcvyMutKtWOMWyEzGP4bA+WIc8YG2rIG25m0376Bg+YIZ4dMuSKRNBTTP1FCvP97k8g=
+position:
+  left: 0
+  top: 37
+size:
+  height: 22
+  width: 30

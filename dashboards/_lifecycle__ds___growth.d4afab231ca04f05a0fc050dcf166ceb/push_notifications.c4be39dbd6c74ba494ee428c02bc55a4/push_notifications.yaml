@@ -1,0 +1,21 @@
+advanced:
+  description: |-
+    DIR = Direct Conversion
+    INDIR = Indirect Conversion
+
+    CBO = CBOnboardingStart
+    CBQ = CBPlusQualified
+    CBS = CBSuccess
+
+    DIR_RATE = div. by Tapped
+    INDIR_RATE = div. by Sent
+chart_type: Table
+database_name: main
+display_name: Push Notifications
+encrypted_definition: U56lpO7duHQtSy54Uvt2QkFKqT6J5SKr8Y/A8ji2uSLEBWevmqmSxtlVgJRpqL2RmWI3R0iU1a14ZGy1hI5HRghKEN/fJMcGfRQI6bo+h7Geyj5RDxbM+1KvLNkuM9imZNY89eq6JWDg3PxM2F6uZN0PPfU+B3X7nyCFII6w5z4v638a+QgmuvSJ8JQOk4igXrsITOxGpSWqLTFFKnfXjFe8zrTIvQHa5yhdh90T4EWOffrCbeNpSxKjJkZNKkvu
+position:
+  left: 0
+  top: 26
+size:
+  height: 5
+  width: 58

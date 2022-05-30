@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: monitoring_main
+display_name: Past Auto Periscope Query History
+encrypted_definition: 9PQok6vVc/q0U2/u5HNqgKLlRWBJSyyEPMCg9FAiavyF6oYE52P5myIoaHFnA3k47nftU8rEvkaOzxGejlp5hihYTuOrswaDfeoGpyf1XnhcYBBpiUr+JLR+YN2rk/r955OUofTxIvbM2e4HfNp52L4sxs/z40m2TLb23b3ibaDVIhsyF+c2SlOcBLOGVncVb22Uekpr8Z6dkYCXlxT7b0VLeF+v+LlZw5ZOcd5+PuA=
+position:
+  left: 90
+  top: 164
+size:
+  height: 10
+  width: 30

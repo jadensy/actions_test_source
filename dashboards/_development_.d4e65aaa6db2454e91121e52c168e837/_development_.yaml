@@ -1,0 +1,8 @@
+dashboard_preferences:
+  settings:
+    description: Redshift Monitoring
+    owner: schoong@moneylion.com
+    tags:
+    - Redshift
+disable_filters: true
+display_name: (Development)

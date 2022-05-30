@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Line
+database_name: main
+display_name: CTR - All Cards (By Week)
+encrypted_definition: ygnfLS5HWfaTa36LoRIMmCHr8mY2tJeMQ8PVo5DOgvVWYQj28icUPvlW542E+ry21JDl8+A8vWulq2GTYy+VY3lVQAumDmUPO8YWCmIRBuQP1fr9k7yY6xd4TDMsJs2xb6ydWj/IHUdMgKOKo3ppI1Xl8S5Q8lZck/oVAOSYP/7e1jICbaQEISIUHS0i1/twAbHxlHqqiFQdNXxZwjbEBHeFiUbQEI5JsixoLA3eqMy0ofbTU2xeJeHzasw6JqnKvdYJlSSGFLozPDvy9xRWx7iDC9/ecJTRXFsgsZIqsbW1eTjd+4ra603XnRlqrB0CksJQOk6AGDx4rzeYr/Zywx7N9ZHwfDxbL4XEAqAdbghftwk+759oYkQb4VS0lwkiuRXKUVXkL8lM13J+JMxY/w==
+position:
+  left: 0
+  top: 560
+size:
+  height: 27
+  width: 54

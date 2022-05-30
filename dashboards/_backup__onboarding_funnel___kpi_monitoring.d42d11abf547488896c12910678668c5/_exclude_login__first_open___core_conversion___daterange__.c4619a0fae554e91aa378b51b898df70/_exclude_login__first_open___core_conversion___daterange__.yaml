@@ -1,0 +1,12 @@
+chart_type: Bar
+database_name: main
+display_name: '[Exclude Login] First Open > Core conversion ([daterange])'
+encrypted_definition: N22WuBsBcg6HktuSs79hzHbthmjF/u5XAex/1ZZB6NA7fsjShQvav/9izPrBr9olDgKei7g+bep+VrUjYC5a1fne9CbqhpPWF08BAaZE9+yDz0Ogb7XKWlFaD0foPiL928MIGHaRHBVFuK/97tpqZyoczYsI1yq6yB2WNzkHoxLxS0vWdj8A+t6a+GCoPYHYkeeOEsLocgf+LEWiBOr71EyJMm9+p51mr71Edz8bOBS+aQKntOVP0ah9lWm4eu3UdBbltoinYPCNajUSssTZSL0DFUMPQN1UsaKgMLIplVU+/JBgyDO5hPNKNa/WMHY0B61N+B2YnpTbIuiVp2hqecIum1Lryl4DKn5W9TRrdn2TEUARMokFA7AmamxHBxLfL4hE//Qre1aCCZhh1jx/94NSW66gVkvq91XEdGcQIfxDXVWvCUg3hgUdZidrLJM+VCJf9f+LRCQu/7O6As/048xmaiq2Pk2bLSO8P8Yr4y0c/3Cx8Dv1C2nd+atd7C9qtbqMB2SoaRfGHh2Vd4WOlI6rSieN6JflMs19JQ8xJrWbVlPDsnrYhE23P8SRrQyr1zDE9sQeI9HLvoE3SG4BQFBg3pPmh6NTacgMGmk6B+e3cSRZgCgvF2T1ZiDuad8NicViUaDIyykdcvMXRb352FzTEV48l0J0Ibh8IAOpL8FvyQmD8sN3M8xvrBV3P1cxMpGrQD1Gm7lB6bFzQlXHAvb2cVlYbMZ4pbCtBhS1yItV1dmYMlSxnmh27JTDnhaoHisIYfiUmOIYqEs/2V/upZsugbutnt7DcL0yPQdhobagdgZcQ/P56+/aHfYuMsuf
+limit_preview:
+  rows: null
+position:
+  left: 44
+  top: 81
+size:
+  height: 18
+  width: 44

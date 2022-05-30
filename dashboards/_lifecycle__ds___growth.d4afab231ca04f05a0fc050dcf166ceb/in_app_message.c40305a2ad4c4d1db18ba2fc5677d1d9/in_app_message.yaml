@@ -1,0 +1,19 @@
+advanced:
+  description: |-
+    DIR = Direct Conversion
+    INDIR = Indirect Conversion
+
+    CardActivation = DebitCard Activation Result (Success)
+
+    DIR_RATE = div. by Button2Clicked
+    INDIR_RATE = div. by Impression
+chart_type: Table
+database_name: main
+display_name: In-App Message
+encrypted_definition: cRYy3LOEtdQCshAGB8X1b6z/9LO7DyuTgVijJL5UIRfWL2ZHXU1fzgj3GRn6gm4V5bc+sCVYKCEkEjFxmFdJGN2EzTMycD5CW0IN3AwRWFPViAZPMfAo9MxiMRJMHbXQcIKUZMQ5Zb4uQtvrGQySQsZY956caFM4O+EeyYPl2s2T1QjR0i5EKrJyMANFUPB/j7Kv1H2rqDiA4NuYc3V+B0uQbYS2GMHHaRNUzUO6wRiz0lj0b3Yqh6x1AF5BanjOzbIY7vuIFsEoOsV33DVuNm1lz68zmeKfOe3BEGp6ebaIt+FEwu9EWCOb2KPi3jo4
+position:
+  left: 0
+  top: 95
+size:
+  height: 9
+  width: 58

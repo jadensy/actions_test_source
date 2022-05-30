@@ -1,0 +1,12 @@
+chart_type: Text Box
+database_name: monitoring_main
+display_name: text
+encrypted_definition: O/JgpJw3cF2KcPaiyYks+ApxAx8n1NCzUBSzguC50G/B1G/93Y+AiDA/XprQ1RJtvlMc3Wf2E65jGL3uxJ7zzNwuviMvyUUXEdkzRLWJzEtiMU/x40ssVvaDOMCDaPmfd6PXX5jseUpXHycPoFhJ7tr8GRmZBVJ583mQbh2TDVBk/obJNsFIqypO0vtlbIG4dyIAyHgSrEBlZoSlqG1lij5OtAaP5puW73z76biDD7Ooiven/vt48o6lamCLU17H
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 161
+size:
+  height: 3
+  width: 80

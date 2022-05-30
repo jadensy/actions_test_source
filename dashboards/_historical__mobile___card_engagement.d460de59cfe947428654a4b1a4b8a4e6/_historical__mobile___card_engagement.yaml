@@ -1,0 +1,49 @@
+configured_filters:
+  hidden_filters:
+  - Aggregation: {}
+  visible_filters:
+  - Date Range:
+      default:
+      - All Dates
+  - Card_Category: {}
+  - Minimum_Views:
+      default:
+      - label: Views >= 0
+        value: "0"
+  - Minimum_Clicks:
+      default:
+      - label: Clicks >= 0
+        value: "0"
+  - Minimum_Marked:
+      default:
+      - label: Marked >= 0
+        value: "0"
+  - Low_Range_CTR_PCT:
+      default:
+      - label: CTR >= 0 %
+        value: "0"
+  - High_Range_CTR_PCT:
+      default:
+      - label: CTR <= 100 %
+        value: "100"
+dashboard_preferences:
+  settings:
+    description: |-
+      Analytics Dashboard for Mobile Personal Finance Cards
+
+      1. Use filters to set Date Range (Past 3 Days, 7 days, 1 Month, 3 Months, 1 Year)
+      2. Click on column names in table to arrange by Increasing or Decreasing (for that column)
+      a. Further subset by setting filters on minimum views, clicks, or marked, as well as a low/high CTR (Click-Through-Rate) Range
+      i. i.e. If you want to see cards with click through rates (CTR) above 20%, AND that have at least 100 clicks...
+      Set Filters: Low_CTR_Range to >= 20% and Minimum_Clicks >= 100
+
+      Terms:
+      VTR = View-Through-Rate (Generated to Viewed Funnel)
+      CTR = Click-Through-Rate (Viewed to Clicked Funnel)
+      MTR = Mark-Through-Rate (Clicked to Marked Funnel)
+      Net Helpful Score = Count Helpful - Count Unhelpful (i.e.Positive score = more people found it helpful then unhelpful)
+    owner: syap@moneylion.com
+    tags:
+    - Mobile
+disable_filters: false
+display_name: '[HISTORICAL] Mobile | Card Engagement'

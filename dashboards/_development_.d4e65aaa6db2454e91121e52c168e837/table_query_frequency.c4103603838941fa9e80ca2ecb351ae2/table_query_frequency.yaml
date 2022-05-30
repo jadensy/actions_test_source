@@ -1,0 +1,10 @@
+chart_type: Pie
+database_name: monitoring_main
+display_name: Table Query Frequency
+encrypted_definition: Elbzds1i9V+awXvwb3hMyaXnrgVXaLFz0wv6S9F8cdln+UpgRmYrbTOSLOPE1bREhZ/EKsxafFfb10PfaxhPiuveaeBXs/HnkRqKkHhXShprRKErh0hnVUcOCgPE7C7a1HqI59sA4bzrWXtttE6tf+Qm0S6TIOd4cQFsQoWbufsYD6O9zZJ/aNw5qASLC6QSaL68t3x6RY30Rp/+aH6hk8QtCS7RRkzAS6dwBGMddaVGD8iYgANBCRPls88CusrXpSTNtiYoBi1az2nh+b2TKMeaVZ943erHu17qPYJG24LpJ8JDWE4kH18wHsFCvfDp
+position:
+  left: 30
+  top: 141
+size:
+  height: 10
+  width: 30

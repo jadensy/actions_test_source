@@ -1,0 +1,11 @@
+chart_type: Table
+database_name: main
+display_name: Table 1 - Transaction with source as "Debit Card` and `destination`
+  of DDA_Checking and `state` shown as Request
+encrypted_definition: 6O40qdUqewxXAYURPrcmZe2z9fJPUZHlnJfcFAUOs8OB2ID2nBQIAKoJ/WwiBYN7tFKzxLRvWdzYeuF2Yd4fJHvr4Zv+eZ4BrWR63VIizwMrvYSGWkgZkTxJtUPRPWZKVEFnbhr6hXIW0tjDnYUJLo92Y0grefft9xtzL+yLU8kwKUy2U+zKe0STkFvacTuR6W0vyihUeJ9sl0kYQta0CXCHIRlHKIr5xReGZvKHRqsEpbjP2Px0gjOQVhqXuhe9VoFUN/6g838x84AU1Lgz048VERSmT3qR6PKS8Su5RA5DAtNpj4zkHJdfL7jVzxIN5CiAUSipWK1ikxM1rh6JkaBtpFTXp9YJ6CRBvaYFUJdqa30HiRIdo5viekI5DHLg/ILWHCbAojBvdSMXy2XJD6q1Jc/y4aB8aLHI37zM8h0=
+position:
+  left: 0
+  top: 0
+size:
+  height: 14
+  width: 45

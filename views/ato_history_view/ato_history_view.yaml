@@ -1,0 +1,6 @@
+Database Name: main
+Settings:
+  Exclude from Auto-Archive: true
+  Materialize View: true
+  Metadata:
+    Owner: sshahrol@moneylion.com

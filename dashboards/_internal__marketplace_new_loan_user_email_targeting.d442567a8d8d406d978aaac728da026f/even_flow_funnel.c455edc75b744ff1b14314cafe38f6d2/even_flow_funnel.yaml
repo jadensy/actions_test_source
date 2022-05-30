@@ -1,0 +1,12 @@
+chart_type: Bar
+database_name: main
+display_name: Even Flow Funnel
+encrypted_definition: hCDLWVXwTilYql3QP86ogBqENwBNHsCS/wbSPBB/8V5+NNyNYfzV+5wU+R5Rkqin12zGiUlkvTR4Xr7yLSW7SEj+6njlh+dKXXFv0bq53gSyI+NuZGRdgRzIy+XoHBrVlRArvV/ayG41bjvvna/ac5eY/AfLZ00qtbX0fCDvhgkSmWBREd0ws7TM9iFQGyUCEX7YqQ+Fcy6BZkBxgywH9ivjT7lbBeNB3Qh7n8GnWUpvskWLyvcAPscqvL9sH5qvlJzbq9eDNqmOqM6ACH/Qpk2t6A+h4nOMnDCCWhVDlrNrjXjYraWdq/8PIlU61VoyzAmpGoGCTLw70VrApf7Rmh4QFCSOEsyOUhUj7VPYXoliL44B087dUY7uua6X/1xHVsKTw2fMMOSlm5AH+axaZJ8v68QJpN5Jpb89xtoixyd6f1t4nn4tjyry8+JgSQVct0VDGGsCCWKpRjAmAZy5OhFSCi69OFxVONcyQo8muY0HonDmzlJ2t3CnzvsTK8OlV3s+QwnWLq3PgTkiDbz8m0w7kRc9iwNI60GcRU9D7FVbPIkupPqTfVW/p89gCaXbPPe3kq99KBtsuOXIuaVJwZde99s/MdOpvMAPVFIykBF9OJp9Pot0uDDodSazSBwJ
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 114
+size:
+  height: 7
+  width: 54

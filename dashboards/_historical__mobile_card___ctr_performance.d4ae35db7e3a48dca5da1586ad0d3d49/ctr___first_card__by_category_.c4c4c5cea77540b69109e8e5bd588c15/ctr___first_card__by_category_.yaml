@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Table
+database_name: main
+display_name: CTR - First Card (By Category)
+encrypted_definition: 3PSELPpj+MLRUJv5RPisaE4/2Q6M1ZD7oF+hMeuFH3DUEL9bdt3YRXvdA2BoD852SzrXAhvMJVqErgheYowd51V6Z/0bjmuH8o7ZYjpgXfal0b3O7OVI2Q+DNixslTKb2nl3PQWhyjeDm71cgJuqbv3Ig+P4L5kpaa90so0botIFRIXh4X+cUUv9bVZNekeiAfKaJtRMuxwuK2iIl4b5ez6NRGQaCf2dUlA9+2IFPJdAH1+Et1sIahmWxLIzjN9wdT4cJRxNhTGRKXQeYSwj9ChSUANtW3bCwkF7mvgybo8=
+position:
+  left: 27
+  top: 143
+size:
+  height: 19
+  width: 27

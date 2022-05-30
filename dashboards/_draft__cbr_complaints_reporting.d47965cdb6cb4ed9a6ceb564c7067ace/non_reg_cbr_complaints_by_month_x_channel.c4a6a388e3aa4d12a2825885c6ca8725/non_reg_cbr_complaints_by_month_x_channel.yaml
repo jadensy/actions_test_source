@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: main
+display_name: Non Reg CBR Complaints by Month x Channel
+encrypted_definition: qeNT1BJmdyfUfYOHPKYp9Kjz6OWZb6IMCvFlv0BTG0OrQFwtwWEDXOCwIqAggktMIhEuzu9yAcArp3z4rrvJsStd+JzMZ8fc8umS8gxNIL6hVQdbaCd+RzppE3k4YLnBNIbSzPHPFTEss0/1akKnZVp1PSfxOdnWddIYIl9fdca709rGp0POeMDlrvA91ju1bDI+doEZIZ9apeJ368yHrqK2lokye5CyGHJAl0+4m334mH2VGaKRaetWxqAz0FfFliWaIce/2s6etx3dklQTunRZE+C28ipdEmxsGfOG+PfSpoNWPG2vD1rpFn5RTGD/8GHkRAjBymx3eBs3CmvZ7bcQXayY5fcQqaQSF0tOvwk7mMZQdvU5BWFh2/eWv8dXcuozHvkAtoFWB9ik8uPNl7fH+6wx67iqMmWqE8hBrd7YxKHJfZrE5mQSw+rwx99zs1KWt8RXkXK986LoZM62dA6QyafBQAX1zZfc6CuOiZu7L1aHGgRQcafa69uro+wA
+position:
+  left: 0
+  top: 24
+size:
+  height: 12
+  width: 28

@@ -1,0 +1,11 @@
+chart_type: Bar
+database_name: main
+display_name: '[x Pre-signup, x Install campaign] Appsflyer Install - Install to Lite
+  trend by platform % ([aggregation], [daterange], [marketing_bucket_2])'
+encrypted_definition: gxoSwJL5NZH8mGyajFb1EIhiyTCG/euf5elv3itHnkDTAJ/WZX8Rg1g62+eKB/MFQ2tTjaONKhtppNIPJdDlSaXQ8bIyDeWl8aV2or9eQPsS4TZg7LKD0Oe7zKMZXHEIUUJtSRAhbqohPybQf7aa4B0Uvp+4HAfFujZE+G3kpEKAhfzy4GWKrD37d+Rl7n9UQCF7jIjm4m0PfWv67VHNTZqqd7H/Abi3YkV3k7vusKnE/DoGa0jznO4UJ9F4icgIRLa2WdiY0WApR/ymCjn1hxQGpIyx+M5A0jxHY05s5Z0zwMW5kNRuhu4ptVKHv8WBacvFRGVqxVv25IH+BtcdLTAIElEn6Jt+3+TcuLxZgMTDeM90BK+RD+Vaq2ipTG+qgCqTiGSewIfGcmYek36MEZVSF4N0B4AYLG2Z3vgMNAQ/MTGWMwzGqFbfcecElpnbOy1H2AE7RDv/eP6CsQ7WW2QIr1Go66fGWxcN35wB6+0BO5xfFgXF2IWnOkwLgEmOPWsYfeMPxQzCb0Nuty6dXORPNaVozq8TpxM3ppzt85wGLRKAI2Ams7xE4N/sWIi6JUT50BIdmKI9OzED8sT3bBlDJDSEcnYfbijIPcMyrGM=
+position:
+  left: 45
+  top: 471
+size:
+  height: 21
+  width: 45

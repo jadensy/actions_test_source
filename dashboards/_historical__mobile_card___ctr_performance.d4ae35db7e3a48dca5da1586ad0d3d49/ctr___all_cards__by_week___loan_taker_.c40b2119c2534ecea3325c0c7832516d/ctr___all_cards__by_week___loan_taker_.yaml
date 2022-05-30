@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Cohort Grid
+database_name: main
+display_name: CTR - All Cards (By Week & Loan Taker)
+encrypted_definition: krPgElMlaZsOxJfPYm/x+9Hnsxj4wrFkAoJxq9qMK1YNbaWkvAhUjqVHsux1Gh6jMaXuh74YWtMbugSH96QDgTz1MMbnBa4epG2kH4TUyRapNYofrvDbSt5Cbj7SBXIyoBHeF9qC9uUXfdAb7IxJh1pCBcDVDWBV65Rh11Wm6Yame/uxadnILNKSWfMLfWhXoq4mubX6qXB9v/An7mhvSl76lWTUohrvAKheAbL10vNahg/Y56eNyvGmtbdM04NEU+exuuetVPbMwyrao19KpZVlrUN49wiDPRJ0YD1c2xCLsKdUTTlmv+qCQ1ZR2s0Yz+j+BKmVi5BNI6BI19hP6w==
+position:
+  left: 0
+  top: 86
+size:
+  height: 22
+  width: 29

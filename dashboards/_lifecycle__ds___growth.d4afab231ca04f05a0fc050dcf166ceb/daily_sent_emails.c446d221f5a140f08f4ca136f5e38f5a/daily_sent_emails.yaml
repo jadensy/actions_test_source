@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: main
+display_name: Daily Sent Emails
+encrypted_definition: eNnsOhswrLe8rWurmUtS3Pt59MX82mKouzYFTeKBa6BlZidq8V/K0JE9uiwTMGze859UuCMCLsXoJaxh5dcidJSc8pzjBSrdqynvi7KcGK4zkX0Z1FwOeFosfD0uiSD81rpj3Ey5RPeSvZd0pQx3HRMmyOmEpk1E55uAAJ4Ambg/AdAGxqN/iTXOPZBUZjTl8L57QVVes1HmvecIzhoaBWfVpeIyzWJ3BnvVF3Sw0LG2Hzmk3S6JFKSLeFxyANE2UuyUXflyuvePJ1kgScch39SlaKKgqHSNUA48rIZsNi/KpeUZgV8eihmKsNf6+dxiH/Fm+3rNER+XJFMcMX9zALGj6ApNS9zVmy4cgM+McAyAzqKDj+OD0J0h3leDggUgAvyEUizC5v5SnrJV77YR4uWQpO2PL13d/ThdjdyP9r7AFAKwB5VZhIWkO/OnJNyJ
+position:
+  left: 0
+  top: 108
+size:
+  height: 14
+  width: 58

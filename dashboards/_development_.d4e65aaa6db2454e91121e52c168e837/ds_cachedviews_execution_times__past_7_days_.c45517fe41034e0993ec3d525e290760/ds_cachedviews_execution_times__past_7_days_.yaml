@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: monitoring_main
+display_name: DS_CachedViews Execution Times (past 7 days)
+encrypted_definition: pNAQimAeZEX3MSZ+TNHTsAIl72pRWrqrU5MUV7W2fCXVnPGnuWYoXbv3AxZtiuNQMlsMUzb7Q5c3w0QtfOttKqVglzRyYqUqyujIG32qWyWno+E0AArZ8IMA1VgBp+S3DiyB8IstgvMFTRWyXEq3EES2VX1pMLfz/Nvm61/xHg1jSFgZ1nCVB9zIaXR8JZs+OQhBK/wwA5uEU1XIeK6uF0PkyziDJM9JKCXs0WNfNM96Vs85xp1PAexygMwqeMIhsH2IS3dV4XYnZYIz0EZJRyCryouCRMETQg8ISaNXr7VpdzoPy79HXVHg1AGBzVzDHWCpu2ZWstt5pCuduxWaGY6KHzqmN6EtRQOX/Ubt+p9na7TwvibFsUnjj58p7+vKbSn0PSxPEZvk9Ht3k8IakFMP7rBkq2A65A9Owg1barE=
+position:
+  left: 60
+  top: 141
+size:
+  height: 10
+  width: 27

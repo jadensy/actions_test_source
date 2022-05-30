@@ -1,0 +1,11 @@
+chart_type: Table
+database_name: main
+display_name: Monetizable Customer - [x Pre-signup, x Install campaign] Appsflyer
+  Install - Accounts ([daterange], [marketing_bucket])
+encrypted_definition: iKs0Q4qmcCFBtHGmyYw49eLmgRT78oRgQned09TnKLdLla6awdr4ZMfGIHp+IqaOx4SEz3lRTAsebblOt1iUcmlKwkOEETETMZcrH493wr0Uh+VqbOUyXfKkjLzqeazhiMteuFv+LjCzskthksE1jiD9WnWfSPD4iTwOtk9g/naBqSorBSj2g/sqCoyLMOUHJ8KnyKDM66+AOtAxk5plKf1UdGYStdKdfi1zCzIyePKhRYuj89wtagKBCxXXEy5WvPFeOrl2/8sdtV3ZoiFWXWxDjPH28nxtoWYU9DkCx9KuoPMecqSo0Fg79oAxpuHtVuU6tL8X0LhM2s17i5/vloWzgfnGuDL1IoJLvp05hoER5IwfLR23et0qgkeYr0o+GLznCy83EnmYsrnlJTOJq0G+1ion1EC2Cy+i+SMkF0EHxrkgnVombO/8eKKwZqEFR1aoIWIYw+QrfsINacuQjilipxfQy3QjGPJmaVJqnNTNsZT71A5NWRJ93yqq67SXuMbLEqGEPf/VexT7oXJ622n+/xzcCIT1PdItiM4Inw8PGw0phbiNqRlx/fZBlFt88PsVgeaAUZdzcyiiciF0iKcZ4zUuds67WRHHvU43saPQ6pw43r0+iSLZfMRLPK/4OEfH639Ur6lxx/k7dhHfAbuZmDg/5Q5RRTf1G8KRVCguF+jlYSeBbJ81iAzL/fKVSwGFOM4yjWJQZlMU3cwL9Da/zmkJGKWTTZyaRlwa8hDsG7lxB3uqiMkGqzk0p0UT
+position:
+  left: 45
+  top: 612
+size:
+  height: 21
+  width: 35

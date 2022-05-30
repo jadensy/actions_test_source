@@ -1,0 +1,10 @@
+chart_type: Pie
+database_name: monitoring_main
+display_name: ML vs Non-ML Schema Size
+encrypted_definition: N40JOWue9M5gvWf54ankm3AzBAFt33TLhnIz1Lh9rRmoymTPC6ikPWC7V8YaF9pjuV8TM1RISlKVVVvps4kndjNQvrabNVO+0gj77VFX7n+3p3U9SizRaeLPd2Zr93NEbfQNhaqbrWS0i92xKCWWF3QA9GxhXF3KfILZrNEvVG4BoxWcCsdslEy99G5JrmBWz1XnJzAlygcII06Nyc7WKGnFS7HRw+nsMcLv4bqqbK7JyIfwJr3TWbcBqJo/L6DuLkHArNsikFiRLvYXGb2bYY2hy4MP/z9wds0BzzjFurDYkbnFUdm002en/lAb+mIa32ST0MK6GiYK3asgYs43rvW5H5NKaFGS6dWHIm/Qh8Hrtzg7IrO35Kp3IM+GNcqA2t0cnT7nZUqtKbJAMolKenv4eEQji1ibvbsbAZtH1RZbmnqlV8dwJ1OthM2HPtdJ
+position:
+  left: 58
+  top: 44
+size:
+  height: 12
+  width: 20

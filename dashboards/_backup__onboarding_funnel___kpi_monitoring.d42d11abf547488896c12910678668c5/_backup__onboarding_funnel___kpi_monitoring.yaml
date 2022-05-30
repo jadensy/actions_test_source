@@ -1,0 +1,9 @@
+configured_filters:
+  hidden_filters:
+  - CustomDateRange: {}
+  - source: {}
+dashboard_preferences:
+  settings:
+    owner: ypoh@moneylion.com
+disable_filters: false
+display_name: (backup) Onboarding Funnel & KPI Monitoring

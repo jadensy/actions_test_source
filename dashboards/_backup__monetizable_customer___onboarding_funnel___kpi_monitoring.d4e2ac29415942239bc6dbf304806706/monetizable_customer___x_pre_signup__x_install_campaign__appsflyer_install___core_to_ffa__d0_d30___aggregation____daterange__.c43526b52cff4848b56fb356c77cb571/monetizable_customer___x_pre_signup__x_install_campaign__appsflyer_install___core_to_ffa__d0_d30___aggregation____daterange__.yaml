@@ -1,0 +1,11 @@
+chart_type: Table
+database_name: main
+display_name: Monetizable Customer -[x Pre-signup, x Install campaign] Appsflyer Install
+  - Core to FFA, D0-D30 ([aggregation], [daterange])
+encrypted_definition: CepXoNWpb9ZJN94icdj/SvVUoQftqkv+R28auim0VkVGP6Bs6LR12Iy5u3MJZseu4ipLVPDbEp9aXi2aSHg1PzipPsgtJGEsy5ZL5kQ/WtfnCEyU0kBzS5ATndJLXamYcd4YAmkwCFnxuooFQzyVw3HP71Pni1TnGJPH6a7A+J0xvEa9E1J8sKkkf6EKoS8Tx4A0iChvaFOqdNH1ge1C3pZKvqzsV63f5HWO2ykwLYEexIVCT9QkbjhXz0dvmzCzJIpeK+4YGC2I5GvV0ZKRWccK7XxsgS4IV6AMZMrGz5bATqJnBmuJesXag8HGMA0dfG6aLnUN0URtO5Ijtfc28YGHJHb7VsMZAVL6SPRUChJUB1mF4ffKPjNOhGcNJWaUqY53u8iDi8cWNWVEhqoYccx1Dp5WqGxxGGWS5xw7LeRZJllakYY4DRFMvoQ/Y1FDoqzjt/51ImRDHSyOQ6ggsMXWwizvru81QPhjrh8E855xxouGPHRh7U8Chx/4W0Jbeo5F7cPPwnY8Z5W8MmpCgGV0Kl7ES8CsXCAfVBkYm4i9ViWLD1WXMEea4wCgmDGWDqgyqzdyXEIbhzo4CXIdCwsRrfzdjibifCF2LODzKOJendz9C3BCSmNGvwUfrmafk5/2kqLjk7dXyTDMU0cykyzU8MMjOE4A/bVjPprvuoPBxbpox7IOX/ih+KjsHHfdT+/XoTVQKfUaizy/wz5DkY26cH8wABiSzAw6A4gOOrK13hhWMt1Rq1rzDeHRROitNt3oxuP+kzCQeJ9A2MJDiw==
+position:
+  left: 51
+  top: 678
+size:
+  height: 19
+  width: 35

@@ -1,0 +1,12 @@
+advanced:
+  description: Events lagging 1 day behind, e.g. 6/19 is actually data for 6/18 etc
+chart_type: Cohort Grid
+database_name: main
+display_name: 'Cards viewed [Filters: Date]'
+encrypted_definition: oLbnSph18qZ5PZ6oP8OiV3UOiDUZJ/eQgj9jusQWDngCh0LznTgedbb+x+wY4SvXbB+GUWCNMzwBxpUnqQJ6MubfuD+OXtYY8QPPgbEvkf14P4bJhhcdLTXSoKfuhUODSirTiK+rm81akCtIdAX9gTgR/2ubdKThVFg+klVDqy6CdbTS2EPFpGRSYzHKAgY3QuU2z6QW22yk+KqVK6KZ7jiP4HYKuTosi9kQUXk0kzJJ6znH5mYotIe0MEX3hXT0Ae82SELZN5WdX+LKrvwh0V6PmvN6ujU3JJvG6/xunC7DDiSzNfhLfT3LdAFt1VcThMQeKzci0PhhCVs6wrtexnJaRW9u1vms2dTOVpalNSXC4P1sv1tmHUItzBverUwH+Q4EE+ZX+d9j3+C1Yb5XYwu10LSbkWparAkSB8zTA4FHRYLctSUeZcaGZ+G4qrYR7JIF8pVI6AGVRhZxDAK94oPn7tBtOAgEuLGk4YNeZjhrmguROk7vy9KMKDsLewLxDdCWkWwal0bVSoWm4Vg5ZU1pXnaN1KZls1y+VfL+1C2LF46l83NTLuT7dUrL0UiLoyzyUTuwSy78vJEpbINVOd6Xz+SzGvXJuVu+PCrNY8TWSIlenhglp0ZrOdDVdwTLloco9+i6zX7cfpCo97RBDCDLAiiQIt2v83JDVPjT7tJJzQtdgcsxYb97hcvu0NIxVYEiwR5VHQ2zwHYu2RVhoc8tNkXQqzpX1iIYPd3EdWY3vs7MDqgMw3g/XZRqrrGK
+position:
+  left: 0
+  top: 167
+size:
+  height: 20
+  width: 40

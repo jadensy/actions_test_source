@@ -1,0 +1,11 @@
+chart_type: Table
+database_name: main
+display_name: List of users with investment account balance > $700 and less than <
+  $1000
+encrypted_definition: fLOoyWadOY490B/kd3pqreLRJVBQtfnTZfbVQJAYW7wLNdGXWCduFiKJ+3tmq1tzOB5dmp3G22UI4Jrn9SDnB7jr1mIzNZblDf/LmJL/nvk6razRonKAd81mZJlWkuSTndG4cjK7qky/0kQDnHS7dJbO1aeMrxHai42x9rp5uLix2cbx+B93XXhbk3tS4SqwEhyA8YAaBe/b4Nph0v31nw==
+position:
+  left: 0
+  top: 180
+size:
+  height: 20
+  width: 50

@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Table
+database_name: main
+display_name: CTR - All Cards (By Day)
+encrypted_definition: o2cXAIWzQ2s3zKLslK+MKYxrmBxgHmoTSaPJUjTi0r13tzPAg/v5SDHIjPeANUf+10gDXLqHyhdZvIMPs3g7RAQwQYwUVqv8QlajqkDfmAcKe2muaaMx6YdwfNuUuHEkBK8RY8xe/BcBnB/dGO3c4GaJPxACephczYi2Z6fGU2jojJtDM+9LGfqv9RF5xO62bshoVH0n61gz58M2opKHaEHYp9GhsBHjJxbuC+Pec+X62oUhdlGhZVm52xXV8P1JNsdNrUrv0zq62zE+Q2MnwbheC09bIj6opxqJ7tcBEXdAAQboTrdpS4TLtdvspQvE2IGTQe/k+n8jgRipWEwTMsbYw+M92uI7iOZLFjVOxfvNT67uOe97vH/lhpflGiGJK4iicjMP5k2fVAL67uERSykODjHft7CxwcEww9dD4FE7oIlyI0jO8chk26fiMOeCBv/AXA4waXQfFaLdmVRj5EOC1qALTVWz9O8LAWK3KsDw8fg3RNpeOHmOaicLHPSjiKoYCdge38RrcACoWdqGM6S+OQ2l7/w+L8iGAtLosYdOwh4glMs1KIgysb63CfxB
+position:
+  left: 0
+  top: 36
+size:
+  height: 21
+  width: 54

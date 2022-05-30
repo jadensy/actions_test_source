@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: monitoring_main
+display_name: Queue Memory Spill
+encrypted_definition: hpxOyFO+wq4CiQu2wNjwMR2DBJ59cAUSbKV/r8PKyXms8RoGIBkPLgeO0Sj9Hd6Mei3dW6/+nkoLQSbBcx0eHlVvwCzV8ZRKKy1RILGEZ6Qu35TdAb35BTr7usNKCFSId9fKVlzL5I7Hi4g6ePTPAwY9hOJI5MS/GqgsZhOrv72XgvNYg2fQmbhpSrhqkLNkPU7v9/VA21YOjVU9ctvygJkXkFumapOW/ZM4/ccBYDHQ/zU+iXbr4iv30e68Ml3+tsFCSxwC6JUVQQ/Jzc5KRz4qmHTH8u9yikfC/K44sko9ecRXfUpkrFE33tBwS4Jm9i1aAO7vIdGcpN2k4xS8HeD/VFwbS35cERalJyYopUu+udSI1pKhzb+Lx2QSgXn0zXNTgzQHWWugR82n7iCdiZBdMuvhnwchyPBldbGW+ruGpA/col11bD1XdTBgm8tbaBQtIj7Ui2yjHTYJiNvINgvbMkIGICAP1i9C38kpFPnlR4iQA1TQGvyAWJvwbJEDPW/hoRD2ZwYrkWWl/ZGvGAXTUckQAhaBHU8ViK1Iarv5OSgoK2lEZoOcRTXmrgOx9jP+n+4vEedskBEDZjyypg==
+position:
+  left: 30
+  top: 12
+size:
+  height: 10
+  width: 30

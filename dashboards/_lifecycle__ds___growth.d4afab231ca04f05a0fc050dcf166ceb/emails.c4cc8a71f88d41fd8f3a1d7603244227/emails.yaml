@@ -1,0 +1,21 @@
+advanced:
+  description: |-
+    DIR = Direct Conversion
+    INDIR = Indirect Conversion
+
+    CBO = CBOnboardingStart
+    CBQ = CBPlusQualified
+    CBS = CBSuccess
+
+    DIR_RATE = div. by Clicked
+    INDIR_RATE = div. by Opened
+chart_type: Table
+database_name: main
+display_name: Emails
+encrypted_definition: eCqvqyYcnmKk99nrIhi58KwEWp3PDlRD7tN61tXmYTfwPPrFbvUdH5qJKqyIVvZt/YgOzex3LVapPk3sXCUgZ4hMHjJf/ESdS6wmPq6cSLv+HnFdsl2vCdINXKpKAFLZVoGYXlKdAqWKasCrfDK6dFqgM1ZXE4SUmydDIJgs/Jp/IoFOB4UgiiZsMQrg79eWVAZjUEH4es2Z3n3nF/ziemQFrJ//jCt8Shyn9ZjGkbSe6dsOckuZaFssqduC8CY/jPJikmgjCRwLWchF2QcBFQ5/k5CRGFnhf/LUKjC0WkyexaW58cEnX6z8Lgh+2rUaeSaFaTiaU/ta1rcT8Z5vsK/Zz+4fYZ05WKST+7vM9KPITdzT+UJMLHNuuYhINkEK
+position:
+  left: 0
+  top: 16
+size:
+  height: 10
+  width: 58

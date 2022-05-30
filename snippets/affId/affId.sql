@@ -1,0 +1,1 @@
+(case when lower(req_referral_affid) = 'hotlead' then 'hotlead' else 'not_hotlead' end)

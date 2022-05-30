@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Cohort Grid
+database_name: main
+display_name: CTR - All Cards (By Week & Monetization)
+encrypted_definition: UPzKz6wON4r0sjQXs2EUszNYzJo8cop7j5Dck9Nsm3L9bOntuZSb9zzuX0FaLeIZjdDFwUAZeJmKSGbISqHFyYgE0+Drn1dR9DvKkayGkF7jOScY5gm/XkR4DuWzwW8YWYK6Nx+sSA5eDE6HCc7DdD1+5pV+3rj9I6aoWiEXSk8Q2EmZgx10jFdYuM6nFLWMS5F5Kouocoq5cah1480XmlOG1DtRbEoRDgZ4kmU+IA164FN45VbXMdcE6i0LSGJoSolfSSYQMEhFW42uSEdv8sENrynbrQQZNpLecPOXRR1zLom/Wv8bDPmOGqVXax8j4luSlVCzKUN2yT1tJ8CHAccgVLT8u4gWQnMwEpekzOg=
+position:
+  left: 0
+  top: 313
+size:
+  height: 10
+  width: 78

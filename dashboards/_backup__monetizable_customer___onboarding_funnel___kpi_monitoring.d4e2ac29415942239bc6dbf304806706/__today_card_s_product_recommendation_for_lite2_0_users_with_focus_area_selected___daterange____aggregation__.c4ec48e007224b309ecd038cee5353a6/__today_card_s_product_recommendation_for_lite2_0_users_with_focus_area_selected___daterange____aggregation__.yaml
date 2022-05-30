@@ -1,0 +1,13 @@
+chart_type: Bar
+database_name: main
+display_name: '% Today Card''s product recommendation for Lite2.0 users with Focus
+  Area selected ([daterange], [aggregation])'
+encrypted_definition: pwy4l0GzMIuNH8jRlyz3xxagVRWSMXo5RB0rhnxkmIarydUe24TWTI548bOT5JPlwmpQsAItNaKoCrciCbP0QgA9iEb/1aK08UK0E5NGX6v6iKubAdjkb5BCrs3wl2rNlQVTPkQWe9YePqX7syXb0JvZidog/xJdxBhNN5EjJPfR0gVHQQHkdiV62FrQADPn28L5qzea4vEoqJiOajKUH/jiSAEqDO9pJKckDMOqOR0iiLjZVQe+FPIjGUaCRUJ5HYpD1AgLdMybOjykZzOy+h0pFuUYpepWUf3bq6jl/EJXDZdBN69jGbFFa+oTQkFRt1xVQ3/kM/3ir/toAxgrD0YacWFybpaPJGKZ7qUV24ht2L+l6LNLGkGmbantPVHhNY9O8XmkquQIU7FRtvVeFDugURF4FHTEAGFADXmtsA8=
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 270
+size:
+  height: 20
+  width: 57

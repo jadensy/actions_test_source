@@ -1,0 +1,10 @@
+chart_type: Table
+database_name: main
+display_name: Campaign level sign up (incl ic denial flow) - app campaign (weekly)
+encrypted_definition: g8UymRFhP3va0S3A46VxYBqIAk2Nk1nyDrVdmJJEKtGK+H+yAWs6VAjYJklx+xmvFuHXqtc2/r4HIawGn/Or1M91Ciav1JZiNV/bhIAOgElA7xmxY5fghE4ezjHjtSYw7OXJKl/7IkUxoMoT3DEzPtGJBYvLWZFBjsscxeK901vFTu4Ml0fKVYb9jvUTBf2R6VlzA9/EyuCUb+njZwMIyA3BSet8lt7gUV16lJnB+Dr2X68OiVy2jSlMCke7GblG
+position:
+  left: 0
+  top: 346
+size:
+  height: 23
+  width: 80

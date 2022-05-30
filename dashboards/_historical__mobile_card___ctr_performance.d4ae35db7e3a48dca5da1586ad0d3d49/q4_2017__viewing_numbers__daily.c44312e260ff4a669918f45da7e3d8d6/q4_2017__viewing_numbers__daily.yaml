@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Line
+database_name: main
+display_name: 'Q4 2017: Viewing numbers, daily'
+encrypted_definition: PxoCxuSgTxgCty8AWhJmMWyhFxJqzCaUd2/DK5CDPTW/hwCn6lOdKe81nSuENqsCwSX8e+isKX8h2JVppJTDtmCYHk7vDYi3A5eRFCnz+Cog3JgVFTW7goecvYvdNYveCy/7F4VNwH2ziBN9NuBCGBOfQ8CRSFWBgks45o+TamlK8p34ISwTZ2+PwmG7gGxK2QK+qZcRwEjR40SAPiKNVdvxHeoTJiOEMfgTWjF3venbGE0Aje5hIx3LwPZDT2xHvbmR9W65fKfbVDnS4vsrpPmDSoPZ4RAw7vBKxlVERQumiQPy9uOFb6KAUzYrAp/hp9860M9DggXW0iu4t124yyMfMxU+AIMcAynrlvaOC1ybT17FHh72vDehqdo9k/ohkx8lw205R4YVRH+RZ5yBZ7FwNK+jRet7iK1T96KQh9NtaxzVoZEeOucdAqYSF5tBCfpnUcFQv0R2KMlnjSLMXQw6/KnqiiHBzzCzqRKAj/gySNJEltkzDzj7XpHC2HWwCuG254jotsKf6Jylg1SeyZYBy6hQKv6z6XDTBJprpDgiI5g5GOtEGrWPG6IK+htuWnF/YW0ZJImhCNZIYPUmXZPZ+IbtWM0HQadsKq8X8w8=
+position:
+  left: 0
+  top: 470
+size:
+  height: 16
+  width: 48

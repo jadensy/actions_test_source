@@ -1,0 +1,11 @@
+chart_type: Pie
+color_theme: Periscope Theme
+database_name: monitoring_main
+display_name: Past User Periscope Query History
+encrypted_definition: y6G/0IPVj+sWaY+YB5Ycjap/0K9XWEONACNzgzt0QCa0iQyCLZubXeaWNByYbVTfXoD2ExEKiL0cgpBEJByjl1vDSxhjqwugQIfk0M7PFP6PctCKq3t1AEIy/mo5HDsGG0IYsK5n3JsOPnY7+tUffDFPVw9qEker2LqYmQwUAZVb1s1odp87xTsNoZUIjXtEQsy63Sa37oR3KZWFomdw14GM3gjepBwjn6PZFyhrqMPak6Bq7Xsm8WXWzrdgFVtndThkQexuG+wty0jDp3b+ffK0gjvgEMyCbBGzp4OECXPw3Z7ii2lqrvDUCDr1L3yT9AIN2SXX/dmL/F8Hncu9jQLrqTxqNSBD0Y/8SfjCNjb6wA4WsIgAbuffuZL0uXgqs48f+EerPUMYlxad88zUNt9wVX0ctEvWwO2+WYmUGXRl2r6efemb8H1zVBG/9uOsmRcb1/cd90U+1bazAfqkWY+ORn73J+YQt7/1xRS2IO4=
+position:
+  left: 30
+  top: 164
+size:
+  height: 10
+  width: 30

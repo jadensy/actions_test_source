@@ -1,0 +1,10 @@
+chart_type: Pie
+database_name: monitoring_main
+display_name: Past All Query Max Duration History Unique by minute KL working hours
+encrypted_definition: 5xO3cQS9FJYrIuMzozDuj1bia4rzRrj7xyiOtJeERCSxq4owBhHSHqZQ2b52kOFuyQgHtOAEnXfvYxsu67dIVlArG0BiSX3IUtHYCX2YSvuF/2hRV6Iu4LuquRDPynhFNWGoqHwPoTym8Vig3Df/87EMM0hP+TS7Nni/tYUYjv7vK7RieymfI9BV7WdbgqI5+rmsAzlfXy2OejjUtqv4usmFEJU9XkV/j+HV/R/vL4wPBsk7p9fxavIRQEfLfC6BNGIIJz7hfRhnaGKdhuI2kQ8dT15iMiObW09sFjsHFnPhqJKhMW7BVrtHbie5/cvd+bMuxwk3FABQtcteOUnCCm3HlC8ikc3tNWaTA+EOyJgq8RqCrWCevNNrgwbo3BicUFE07SC95fjiobsqncLHmQ==
+position:
+  left: 30
+  top: 184
+size:
+  height: 10
+  width: 30

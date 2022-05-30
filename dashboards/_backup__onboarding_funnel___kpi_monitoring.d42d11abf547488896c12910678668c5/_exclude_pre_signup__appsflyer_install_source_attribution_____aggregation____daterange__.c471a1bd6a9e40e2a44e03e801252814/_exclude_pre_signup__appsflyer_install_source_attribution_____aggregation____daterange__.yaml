@@ -1,0 +1,11 @@
+chart_type: Bar
+database_name: main
+display_name: '[Exclude Pre-signup] Appsflyer Install Source Attribution # ([aggregation],
+  [daterange])'
+encrypted_definition: 6nZu98uyHVvaoJ0mIEoORSqJA0ZDywy2+G7oQ4TphqidMhy1JCpRNGoggeDsFoSJtK6vOFna5x0+gKmzzUyfQFVd3xOSTJ4B+lf0NHWpZYpcTaTxGLZyeDbQ4SSV+ncbOV2aYXbpG0xcylZPkXFr8IAbcP0trd5Qphkll3Jb4BqN1SFYDrMaj4MU89GNc/5o1E9P8Ld68k9ZJLFXcRxuO1DJEKenW8IVQZ0flH8dV4GCbPnGYbH2+7onpJPEF5dPJtpYinCpeXuUoefFmJ8qoJGvYzQUkf4JxfB1n8Lzn5P3ODEV7c2oPWpVk1Fzsn+E
+position:
+  left: 0
+  top: 413
+size:
+  height: 21
+  width: 45

@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Line
+database_name: main
+display_name: 'Q4 2017: Click-through rate, daily'
+encrypted_definition: uGLPLMupLCMh18x7ga0nw5M0ZxgyQmYIrxZxfHniNvfCLWW0OtmJq0SdDAcPJJV/ilc5marpMjUodbBWJoPP0qwyBzmPto8i/GKoWp0tZ5tFHHD2Cuhik0SRLyolZSsbEswK//5sZ/+6Ao9Ri6jSPXwgACEUwNg57rru8a8L1QURZjT4szAQFsGhD02BdwFPkMpQEfJXzPlnHfZFBGEyH+OofQeuHz103duDTjqOpXW3xR8k9h8W2o1l5b71Pfb1PKpUPt6WZ2Mh9Yv3VIE38jic6LyiyBrnG/Su5EAEfj5Vu6lPwRhU06/gWcD75bC5cK81yDEw0kpVHAt5vEwQFmAVzBVcM1yjfIA1O96s/NnKwV5rIFQvMTas7oZ10YiBUKZKx8fW+0r7kOlK8eUiQqHCSwUq4HpiDLUtQMOEvNvldaP/K9H150gxF2I6R93LpcrSOOwmnF/vra9/9TpZ3rJoSJ/S2JirXreUAYq9GbwLYfIFxC9/QNTCjbn6S+EJjGGoG775LFkX7S9qMXsqoQwMCM6ihz++FaU1ONojrqKZcPUOhRlkXNcR8VKz+7UDP1rIs0lyDNR4KxBxEbM74Yr979acBlYh4lgySJ1wLd31n+Q3p0W1Iw0X3IjcJMB2vCvnHF6AXJsqMmy08aBbnxDiK7Pi06VRAMxj6AJhH8I=
+position:
+  left: 0
+  top: 453
+size:
+  height: 17
+  width: 49

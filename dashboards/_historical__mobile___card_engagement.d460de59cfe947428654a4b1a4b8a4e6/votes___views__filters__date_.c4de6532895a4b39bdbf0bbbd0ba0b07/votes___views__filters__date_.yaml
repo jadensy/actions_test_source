@@ -1,0 +1,12 @@
+advanced:
+  description: What % of users got which card
+chart_type: Cohort Grid
+database_name: main
+display_name: 'Votes / views [Filters: Date]'
+encrypted_definition: sPolYPsmw/ugHVBjYn3zkvHoWWGtE/UOSflTBsY5ptwvaJr9BExSLEz1EvsM06+l0+NSqyhXwM2g/xS3Aqy8amjfvx+3ixqolJGeR9XFvZ6f8UZtfyQRsJB+jrPwiphUmEiziv8pgw7na1X+avTHDizM3LeO3/OUUROyfHqqjet6pbYMmTzzCM9vwxR+umfTrMUTQ9JDmrZljXHU97KpQ7TCCEGtD/aFEDaOiLRNHgIgf0MwmzMiOll/T2Q4yWDLMtJPVLxWliNC0XJLe6dK+1s61IpoVuO6uhpSSYCgUlm2zBm7SIebF/OuCRc1F/9gvtDLQeAqYKHG1RotS7dMG3A74x7Yws/wHv0W1mJgQIy+0haCxLa4VXgqBhFIwyT+g9+DwrzE1NyuVhAOIKQ/lAsebHBe1wDomBhzAexCPyRayFtlXHkeC+fLk0vic0nbD+LByW05zmFIl3BMZ2QR1eK65YxPAipLztz1moaYC/Xgt1x4SWKUH9GH30Co90l883H69ImN8w4U+wrlS77V9EtIGfMPJZAvUFMpSc+Prirv/K7LzCL+t0asmBpyCDMrpxKregTr7C5/VjpS/Q32Q/j4VIaRdUWeQ4sCIAmcNAOEbNESwb/1JZIb5lIlamfBeriR0EfKhI/zpObyV1A665u1C6nRlYOCsEG+fBLupfAj7RCibJycp71mlC2cUar83Hs2iOC/oEIy99l8STqbN08rhvlol7iOQzpLc5lP8fXTJIcQ6er1ShU8qmlsO/9CdjyH875TnW9jS8TKDiD24y6leSKJk+JTay76icYYLb0=
+position:
+  left: 0
+  top: 87
+size:
+  height: 20
+  width: 40

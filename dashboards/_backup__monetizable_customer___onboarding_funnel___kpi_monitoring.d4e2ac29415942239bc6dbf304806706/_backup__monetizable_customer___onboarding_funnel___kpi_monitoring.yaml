@@ -1,0 +1,12 @@
+configured_filters:
+  hidden_filters:
+  - ControlDateRange: {}
+  - datefilter: {}
+  - DateRangeFilter: {}
+  - Day_frequency: {}
+  - source: {}
+dashboard_preferences:
+  settings:
+    owner: sylee@moneylion.com
+disable_filters: false
+display_name: (backup) Monetizable Customer - Onboarding Funnel & KPI Monitoring

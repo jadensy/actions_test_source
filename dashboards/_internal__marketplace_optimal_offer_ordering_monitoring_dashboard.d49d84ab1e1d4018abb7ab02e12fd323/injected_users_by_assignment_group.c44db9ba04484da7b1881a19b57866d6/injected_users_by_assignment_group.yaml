@@ -1,0 +1,10 @@
+chart_type: Table
+database_name: main
+display_name: Injected Users by Assignment Group
+encrypted_definition: bwAqu5dfJjzDOs7GZGH1Qr3xq+vtDacfkDIxNp7SrFI/8+AAbkgTQYb6VgEBL5EkiG1qqbDTyCtSmP+HgszS5fPX9CB6dAh36r2rUrSm0SQtZGk/JOsTM8ux42g/mekwRDZPzZfCnFfBO9DYyz2ymWN/SjzKEGerKiMz2G05QIYaekrSE6lmaaGFRHCDboyBqMb2jHvDmwgaw6tRvC/qmb7E/+tUun6YiNL49Bi/phhdKzo+bXHNeQNT9y6kq91PqeCgITIOLlkfyqWMN2Lt0rBzjyEs04+gnN7+WUEn9WE=
+position:
+  left: 28
+  top: 5
+size:
+  height: 5
+  width: 12

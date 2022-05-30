@@ -1,0 +1,12 @@
+chart_type: Text Box
+database_name: main
+display_name: text
+encrypted_definition: GEj5edkRGjkPYJoh9u6eZ6M1v9G5Wi9/fvpEsFm58JZl1kKgbuAkEhdHbDGSuOI4HVsIQlxyEMkHwvR9X+vdS5HMEjgra22up1ebrCZESWmVGiEoCQGO6pKm/wuqUfVFL+m3SZhis3EOnfQ9KyOW2V8+MOhdW31JsUYA3RIsHsYfdi/pgQ+aJa5fvJSkgLErkcUSoz7bBVSCh/JGFa2uGT7KrCSJH05AqPhAwPjyj8fldXAa0jUL5GXxNezUiEHS68CEq4Q1o60+qQnVHrGN/C1QtXiP68R/S4pFuAt+4f0lQOeS37xHQWAF6Hdl+UgfKWRmRp8g9Bz+4rl1EJ1TJ6VRSOiRO03h95fgfDDatJ5oWb5HISaO3twkr9+LGxTOXibieUwIFL3DeUH437sJBgsBrv/rBxMSNtOVvDwGgpqG1VD8bzq6kJnW46hEd3ip9+3Y3MCjisJ8flbjh2VKu+pt4WOaWWLqn/e6CvON1+AZiJcltih2DRu52VKJxnxrYqNdbFUF28Sdq87X2xxM8LlwLVlctZOunCO0/EUP0q7S8czWsmlzsgUDuRTcGZNyNj9BCln+BzdSUKUkCHI5FLe5ZIItvSVB4OX2Uv43ZwI=
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 70
+size:
+  height: 11
+  width: 88

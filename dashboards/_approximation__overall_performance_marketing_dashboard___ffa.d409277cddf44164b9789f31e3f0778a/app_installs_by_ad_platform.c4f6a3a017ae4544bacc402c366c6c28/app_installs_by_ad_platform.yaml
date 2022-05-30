@@ -1,0 +1,12 @@
+chart_type: Cohort Grid
+database_name: main
+display_name: app installs by ad platform
+encrypted_definition: jviqhfQIbLRb08K0MAgPK9iE6asQvjJmZLg63HXeSL5seuWO3kmY6fScZ40fY7VwoUoTKkyv3dBk1D1bzLKK5g8ZmeW8SVYme85pPokynYk5DPhpJsPmvIqe3/FyEw5qcHrea/41m+97q+G3oA6h03I5LawD7lUFy1Zc0HBCOYYRAi7xFZYYekY4/hXJ5biM/gjCMFHOa3oV9R4yH1OHeWOUMhhA0NAHVd0QB/ELJyY=
+limit_preview:
+  rows: null
+position:
+  left: 60
+  top: 306
+size:
+  height: 16
+  width: 47

@@ -1,0 +1,10 @@
+chart_type: Table
+database_name: monitoring_main
+display_name: WLM Query trend minute
+encrypted_definition: 1oldDllxEf6gKkjrpL6UbQikdMSR74Hym4LnJRmNwN+zFAT2yjgucGZ7hD1wEUUKtuXGNqYzjQowvicmL4FHluyaQWqx2fJNfWrBkEE9I5+omHympZexPbbW1JOPhs0xieKiDCeVoF+N6DazJ/f4Aw==
+position:
+  left: 71
+  top: 151
+size:
+  height: 10
+  width: 30

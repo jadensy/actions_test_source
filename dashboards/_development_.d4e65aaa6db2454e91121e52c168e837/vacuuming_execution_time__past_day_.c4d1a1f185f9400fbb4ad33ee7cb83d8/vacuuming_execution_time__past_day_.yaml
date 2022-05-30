@@ -1,0 +1,10 @@
+chart_type: Line
+database_name: main
+display_name: Vacuuming Execution Time (past day)
+encrypted_definition: 1Y+g0yB+1vFze5hdpUH47cJJYJVZmQgxtg/RfRItkdTWysFYeuAsRK2NGhTfLqe/4tWvYJtTXpjVhXcppDoYHxnXt9yx6zDIn0pFb/lNhd2C6dvEmX/v8hcJToQm3Fw+zdJ63AktPpTBH5ZB9bR5u/42EnOGNxIAwhgi0A4CZGeTJvNineO0/tdt/+1Om82cYdpIgZ/hHesQHdKAnNFKxPovwd0GYSlDL0vccqt2xXJPMLP0dluIr0p5oRBwP+h2BdlyLCXQO+zYAQixjxwjoYbz9hUvPbF+sJ+VGiH3Ko9W2yY2HnDlLYiIoTqeq0gJQu+SRbc/Q4hlmhJ7fsaiZQosGrJbopOYmIHlpVP6iEhfwVY2oeb63Mwxkq+KYe94t5guxQZ467BgHBFdoElHCuz72mXv/Bpw7IIsJ8Nws5fM6TdpVUHf8C40xPdaF8xK
+position:
+  left: 112
+  top: 101
+size:
+  height: 10
+  width: 49

@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: main
+display_name: 'BNPL Complaints: Volume by Week'
+encrypted_definition: 2pJDYU8rGdqdJTuMOtw7SynpWCUJZgX777txpmrulI9ePhU9HLcoG/3GBP1iQlhxW7ySVvvm4q/Mojjrn6iEgBfu3zY0xyJf6mFsEEUnfBzAESo5gAaeQo2SK+QWSlkY1k9omZ4wMb9S+MrqB34NH7fFun5VurkEXbYBw6xhdlrAT+IKi1bsyN/TfVIm7OCY0T3dD/uRYwOhkKbrLZ5Yow==
+position:
+  left: 0
+  top: 27
+size:
+  height: 11
+  width: 34

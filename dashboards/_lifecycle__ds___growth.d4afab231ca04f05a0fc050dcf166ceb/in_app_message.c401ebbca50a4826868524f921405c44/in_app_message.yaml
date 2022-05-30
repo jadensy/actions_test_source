@@ -1,0 +1,21 @@
+advanced:
+  description: |-
+    DIR = Direct Conversion
+    INDIR = Indirect Conversion
+
+    CBO = CBOnboardingStart
+    CBQ = CBPlusQualified
+    CBS = CBSuccess
+
+    DIR_RATE = div. by Button2Clicked
+    INDIR_RATE = div. by Impression
+chart_type: Table
+database_name: main
+display_name: In-App Message
+encrypted_definition: A+V+vJgOmdDilPpkCpRglL/VbeDFo960sCwzEe6LCMw5hz+ojULpeUDSGx27o1ktSnJM5ULS92KObk2vl0MYeXLTNa2gr8U2mHFR5NKq1ig1MEKx5n2x7ZPl7KWL3xoMXp9HInM4R+ZXjQrVsz+QzXysuO6zb8VW2IIEJ+luy5A50tAmlWEOr+uubCoSK8PPQWIzhoih3Q7Upv4/c2mmyMSU9lKrowCCCX0pMvm8nM2AVZINMlIK+P/Twglc4Dh9Zr9HFRQawTsPLOmeJsSkZUGWRwcA2H6QApcwfRSFP4o=
+position:
+  left: 0
+  top: 31
+size:
+  height: 6
+  width: 58

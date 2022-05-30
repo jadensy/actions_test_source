@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: main
+display_name: 'Appsflyer Install Source Attribution # ([aggregation], [daterange])'
+encrypted_definition: AMhAytbG68mW41wfDjngdggDEdEHUiqbNZQZ2A1NNEX6CGokn+su3mKjhl6oUEl7rCK7FCe2jsTG/uN5nC6ekJol3Nh4sC2NUw1zUIxEJINRywiGm8gSNic3SNP6P/Eh8G+EhO1A4V6fLDsFt+JA9pOLO879ETFsoj5YyQ8FhGMHrMeogIaanFhp034DicMMYJeDwFR+9O27sNPUHIFffS52fpiL+MUNZ9AKtBFSqMWYvxnqZzhl4+iWQ9UqbDdjrruaV/ymVzICchHXjP2vIJpuuUmJFJRYibMQhwD4vkXNhb14/AbJ8bOusikSP1EG
+position:
+  left: 45
+  top: 413
+size:
+  height: 21
+  width: 45

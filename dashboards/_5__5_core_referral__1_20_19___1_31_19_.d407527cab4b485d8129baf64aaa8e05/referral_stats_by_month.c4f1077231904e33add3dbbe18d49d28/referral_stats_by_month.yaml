@@ -1,0 +1,10 @@
+chart_type: Table
+database_name: main
+display_name: Referral Stats by Month
+encrypted_definition: 7TDgbJTF5kot98pRpPVXYatkPzixcor+qKXxy9BNlyjA9jXQM7bN1LpSzoHsuuNPxZPekJzje86QEkoYUe0tT9sfiWk/wl+zfcbDtOzasGZsOrSvdHh+ajmONMyHGmiKZdUBs0RArb9icbwnByXF0bD4BwADFbdA19HoQhq7ChTfsODohXp9qn4zHX5nQsInwBulVS4rxUtnWExCgnPHYBGJA+/yDJMDoMdZP4/elzKrr8xfJzIkqyeemDMTZYYv
+position:
+  left: 29
+  top: 15
+size:
+  height: 10
+  width: 32

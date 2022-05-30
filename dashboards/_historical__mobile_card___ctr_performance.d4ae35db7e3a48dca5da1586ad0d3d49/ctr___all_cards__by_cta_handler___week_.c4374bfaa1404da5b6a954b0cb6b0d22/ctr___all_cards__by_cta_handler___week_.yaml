@@ -1,0 +1,12 @@
+advanced:
+  description: CTR = Clicks / Views
+chart_type: Cohort Grid
+database_name: main
+display_name: CTR - All Cards (By CTA Handler & Week)
+encrypted_definition: kBp0IzzCEM1vYb5OPpI43q+l8kltK6pMDgQAmHBcwpxvvQXZGc9J1GlwcPbq0Iv8H/JP8KQ3UWKH6UbS+H5TDKR67Z7Ce/HO2YXukZzrS9IiUuTzR5v+27oAim6yBhttj9sT6mB0N5usmpZqmYXp8kS2UtDlTUxtYYibUgOAH1BGRDr0TVW5cdWq3w3fYnW1uobHDFHdAnBQQg/Yf7yaIzKkH0SW4uGDPbokPEra+fJLUJy4lXWCPsGTwSK/bg3KwxINa/M6Ya5POY3EVz5JZKKUc7SiZpu/SDsjqR/iXZd6mrYnoL2KD/5qFaFE81cByEwoHSJQsVHEGgJndSklSO43z5dw96Vg5BSfexmgsa8/vE+OSBi7VG5JbOHURyK8HBQ3YqX/j/WRzNUQN/g7s0sX4desEDwgGQzhBFoNovotNXbWTSu6i0OMXj7ruXoB
+position:
+  left: 54
+  top: 147
+size:
+  height: 30
+  width: 14

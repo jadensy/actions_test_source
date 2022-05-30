@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: main
+display_name: CTR by assignment group, by offer index
+encrypted_definition: SyTuDwHN9VFlENt24n3PIK0Q6fyTQFF9mKLVXkUmLHPHEi/wlLcAAVT4HPyVUzC7bOxDPO6TJc2TM4bWE3nd+Nu82uVVFOxBjHf6FQm3reVbjZNQmaRjff5Y1VBsKhose+OpPsD7X5GkK8ZVqHh9c+gaSKZajotqgAqj4MORdMCrlBq8am6Q9QK9oARD4bMKA6Q+bWGx/RARX7HLmfiVqTlf5cok1kagBzjQEGaFXtNdkdg/V+aLiix1jhXlwtEK6qZfu6fOgHPydoAPz3+jAsGfbnviuPOeroTWWltNCKjwmHsfy1zn5wn1ihLwELX9KWU5V7tqq/5l9Y2BGHbBOlAQOsnYCg3r9HCM/9eutBB4l9mnLjDzU4+ZKeWkiISdgiu6nm1QnvkjAEQ7sPHBklzGRekdmgBthjLcWUNT9H9lYq4TEEN0iEqKgtszsiQVRsov4mIU+DV+EQnXWIrT4qxqamSduDcmboH9/SJhJrwe9RBmQsJvLJfSBrP8bhbD
+position:
+  left: 0
+  top: 39
+size:
+  height: 10
+  width: 40

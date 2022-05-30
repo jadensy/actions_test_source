@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: monitoring_main
+display_name: Queue Memory Usage
+encrypted_definition: A+7zg9KoqLnaVBO+QSqrtwO47EQ9NajXV9Uat+UmwwOAOXs5irMvIgskP06+cDuD/P0X64kiRDCMsKCkAvPs9KIm7wghFjnfFKLt2wed2Y4qQojcnvILR3DdziSB8asXE1Ez4ZPjcl5Qu5hSEdbEY1XvtsoAYmXAOOaIxeFxP3R73VSGJ7uJaxzGPUU5JARqikOvSBGRxPGW/ljHZU4GQP8eiB1nGceZwmv+Opgr2VDprckLRjTgWdxEbKBULkG0vBwTTZ8XxphRfQmYvFrNAZ7LKCD72Jwbx5DqLARnesjD5t6uOIei+ooF9SnnY8CKv8jfaSRZsbgH8U1SxJ8gcrEioc61cDFnFNHa01+WJyY=
+position:
+  left: 0
+  top: 12
+size:
+  height: 10
+  width: 30

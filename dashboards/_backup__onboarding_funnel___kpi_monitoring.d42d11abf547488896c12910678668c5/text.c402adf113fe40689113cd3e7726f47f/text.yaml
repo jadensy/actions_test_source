@@ -1,0 +1,12 @@
+chart_type: Text Box
+database_name: main
+display_name: text
+encrypted_definition: 720ja+5VB+9pmSWNFfs2H3j1WRXjaGiTDWRSyQYiWIvENyRwqTZ8YLMizyNoynMc757a8ZPRWfh904wfJ1Ure9cgHv1OtAFEu3AXDQc06J3jc+UXVv0B5hp8rGY2wI7GeDIx0u5lz57IIZGpgYwq2by0Q+u2Lt3hjp/NTkgh/8a+QasOjmHHoc4lkKh/nSHLzSmrLmCk+2cMw9E7QLnwwOwLuo3zHgPqt8E7L9LDNLU/OHNhbE77lSscUqcG5EiLgDHlzZa0Dg7PFfYAlPwACYbMz38nxG8cY7wMtOelWIJATJ6w/D7EvgAwry1g3ChcnTyCVa8+lSyBTIcucXwxlH+FWtXpMQWnGRN+UhDcG1taq8WxlZvmeNoMDyQH03PpENphJQAZ2wrF8s7d7buJ1GOzm1C5AYLFt14hlmzqrJ5mbPs9xuJZCRdnz/1/5GC5nNboG0sOXqmyv2IPRX3K8pXuhJmzJWwrOQxiFPjPkqRBKAhgwBP1KcAOPcSbCLg62Sra4+/3tWot+R6DB2YJ9i1Un6l7Wra08nQC6MNLIeIfStHs58ZtfBrn3GNe52b6YATa3Y2dp+Q8aoL2E1UoLCmUQB8Por+n1tHyy36gQU4nujNING6OMhtQb76JNHNA
+limit_preview:
+  rows: null
+position:
+  left: 0
+  top: 242
+size:
+  height: 10
+  width: 90

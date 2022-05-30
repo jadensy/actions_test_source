@@ -1,0 +1,11 @@
+chart_type: Bar
+database_name: main
+display_name: Monetizable Customer - [x Pre-signup, x install campaign] Appsflyer
+  Install - Install by Marketing bucket ([aggregation], [daterange], [marketing_bucket_2])
+encrypted_definition: MGhRvg2ZYjYnhZCFDHhg1AYWQ1vvnocp6RdwE+WX9vUBKer+rOtddYlHvKUUVdWhN3c0UwWjLW0SYhfSI0tDbZrwzK7TkZoFqSEo+KIj52HAARuZ0LEvLM+juBmafH51VYr2A3wIrnAird6gmyLPgRKviB/CuwbmaR24XsIJ0vN8XxNmuWOlsm+draWO7xl0BTxC+quwdtK1sIHEaI5mhO7c9UWgwn/XY2nMcWciFLVkkyF6kwmYAZ9VQFZveyx/VmOPatOfQdbE30108ZUxVRCpWxDsy3Gi2u46p4+/BLRsxLJt1gmjB2NR6K4GzUq6RThoRb6tqP5FtL0U91kc6h6cEpl2RKyZVDyBKpQI19xpUWNQe/S+8VqwGRpr+yrlex+0Y+ah7YqQfqwUlvP1Ze4eR76CVsj09xES15jeIL5wQzVwj/eIubHMe+V4z0VOCLp7eljQhmLWRyaSt0upQURK/ItAvMxtv1uAPqSvUlpCyPq/SuNFwK1Ks6TQn1Jr/o4nzU++9VuL4bV2J3qAUDucn3t3U32d7UOxKp8nsj43W+C3QrwZ+080Em6lyEsnXq/F+hpc8g0zY4OfrkZyYL9U+k/3Nx4CRKYB97C+6yo840vBW8m56UBeGkp/s0j5B9/MOm7T+kyHrPsAFKBz9V3OH3xHeC4E04iGQ/ECGlUDMp0fUiSh/YBit8v5q4VTf6wxW2bcfR9cJkuBIVvKxn2H2lSRRWDuGfUi1F4gi3JtpZOTT+x/ZXTtz+1hyblb7/E6jql0F7ulmQYnw34ANAB1VrszbyDJGVEpp53k/99r2mZKXzQMWxLw4JgAu4MvIjIR5XRvHdpaThw+8hOc5iGe9tqyCGMNJ8vAiCtoLRq0w11Ne0NXCYpohI0dFsjC9QgopBh20eUbLbr+Fz1WkGeUXt6p9pWV7tjrR5MFlTFoEN/pqNuL3KOUW1WOfhfRhA1sU1GMJqSB14E0d6HKXA3SgykfHcW1vZR8twrwQJXOjFMSQD0uvCIZMut/cMvkZ5lfbGhuVXWxQ/ngyPI7nEyWisDOpzD4LomePC+i/bw=
+position:
+  left: 0
+  top: 424
+size:
+  height: 20
+  width: 45

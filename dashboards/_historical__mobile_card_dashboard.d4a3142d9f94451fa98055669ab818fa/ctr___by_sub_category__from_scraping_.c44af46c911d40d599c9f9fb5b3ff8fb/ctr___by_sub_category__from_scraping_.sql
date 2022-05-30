@@ -1,0 +1,16 @@
+select case when sub_category is null then 'Uncategorized' else sub_category end as sub_category,
+        sum(is_generated) as generated,
+        sum(is_viewed) as viewed,
+        sum(is_engaged) as engaged,
+        isnull( Cast(sum(is_engaged) as float) / 
+               NULLIF(sum(is_viewed), 0), 0) as CTR
+from
+[card_data]
+left join
+usr_rsulca.cards_master_list
+on card_data.card = cards_master_list.key
+
+where card != ''
+  and [timestamp=daterange]
+group by 1
+order by 1

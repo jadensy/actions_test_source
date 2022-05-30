@@ -1,0 +1,1 @@
+(case when req_referral_refurl IN ('mobileApp', 'us-aws-webapi01.moneylion.com-prod', 'mobileapp') then 'mobileApp' else 'webApp' end)

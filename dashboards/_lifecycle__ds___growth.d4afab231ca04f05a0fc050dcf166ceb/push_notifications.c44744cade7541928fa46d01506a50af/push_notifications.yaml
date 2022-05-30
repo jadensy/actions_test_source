@@ -1,0 +1,19 @@
+advanced:
+  description: |-
+    DIR = Direct Conversion
+    INDIR = Indirect Conversion
+
+    CardActivation = DebitCard Activation Result (Success)
+
+    DIR_RATE = div. by Tapped
+    INDIR_RATE = div. by Sent
+chart_type: Table
+database_name: main
+display_name: Push Notifications
+encrypted_definition: FM/xXlo7sL3PBXsit79hBR9O3YQ18kwzJ9w6g4lMTP1NVJl3h8vsGODKlvokIq8glLLB1soYjsE947X2cPHPgSeth6mEp3Aab2lI8y6J/TekrTbAXrdzr7NtV1tT1Fi0GbA2cqGRmldAbYYPTwrEKFxgUqIuG8qw2jhPQDP48b6ikGog5TMa9VlZ7IEJt6sENwqvqFcjZqnoZCHVileZU3mzwZ9MdVZcJ51jH9eCqtvoxOodiRPiXMdWQ/rIxAR8BGcvK65mLfS9M3ZzdTYnyw==
+position:
+  left: 0
+  top: 86
+size:
+  height: 9
+  width: 58
